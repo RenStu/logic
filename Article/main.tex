@@ -51,12 +51,12 @@
 \usepackage{subcaption}
 \let\newfloat\undefined
 \usepackage[capposition=top]{floatrow}
-\usepackage{amsmath}
+%\usepackage{amsmath}
+\usepackage{scalerel,mathtools}
 \usepackage{multirow}
 \usepackage[table,xcdraw]{xcolor}
 % ---
-	
-		
+\DeclareMathOperator*{\varsum}{\scalerel*{\scriptstyle\Sigma}{\sum}}
 % ---
 % Pacotes adicionais, usados apenas no âmbito do Modelo Canônico do abnteX2
 % ---
