@@ -14,7 +14,7 @@ O primeiro momento lógico divide e gera duas sub-lógicas que negam a si mesmas
 \end{figure}
 %\footnotetext{Fonte: note}
 
-E na Figura \ref{fig:logical_units} pode ser observada a representação do primeiro e segundo momentos lógicos como unidades lógicas. As unidades lógicas do segundo momento lógico em diante são obtidas pela soma de suas sub-lógicas. Assim, o segundo momento lógico, por exemplo, é a soma das subunidades [0,1+ 0,32] mostras na Figura \ref{fig:second_logical_moment}. No primeiro momento lógico a lógica em sua unidade nega a si, ou seja, nega SER. Nos demais momentos a união das sub-lógicas ou subdivisões representam essa unidade lógica que nega SER ilógica.
+E na Figura \ref{fig:logical_units} pode ser observada a representação do primeiro e segundo momentos lógicos como unidades lógicas. A partir de qualquer intervalo, as unidades lógicas de seu segundo momento lógico em diante são obtidas pela soma de suas sub-lógicas. Assim, a unidade do segundo momento lógico do exemplo mostrado na Figura \ref{fig:second_logical_moment}, é a soma das subunidades [0,1+ 0,32]. No primeiro momento lógico a lógica em sua unidade nega a si, ou seja, nega SER. Nos demais momentos a união das sub-lógicas ou subdivisões é a representação dessa unidade que nega SER ilógica.
 
 \begin{figure}[H]
 \caption{Momentos lógicos unificados}
@@ -25,7 +25,7 @@ E na Figura \ref{fig:logical_units} pode ser observada a representação do prim
 \end{figure}
 %\footnotetext{Fonte: note}
 
-O Teorema Central do Limite afirma que a distribuição amostral de uma população se aproxima de uma distribuição normal à medida que as quantidades das amostras aumentam, independente da forma da distribuição da população. Esse fato é especialmente verdadeiro para a quantidade de amostras acima de 30. Um simples teste que demonstra esse fato é o simples lançamento de dados não viciados. Quanto maior for o número de lançamento do dado, maior a probabilidade de o gráfico parecer com o gráfico da distribuição normal \cite{statisticshowto_teorema_central_limite}.
+A unificação dos momentos lógicos é a característica que corresponde ao eixo central do teorema central do limite. Esse teorema afirma que a distribuição amostral de uma população se aproxima de uma distribuição normal à medida que as quantidades das amostras aumentam, independente da forma da distribuição da população. Esse fato é especialmente verdadeiro para a quantidade de amostras acima de 30. Um simples teste que demonstra esse fato é o simples lançamento de dados não viciados. Quanto maior for o número de lançamento do dado, maior a probabilidade de o gráfico parecer com o gráfico da distribuição normal \cite{statisticshowto_teorema_central_limite}. O Apêndice \ref{app:algoritmos} explica o algoritmo Distribution\_PROB com o intuito que clarificar a essência probabilística do teorema central do limite. 
 
 A Figura \ref{fig:statisticsbyjim_central_limit_theorem} ilustra o fundamento do Teorema central do limite quanto ao fato da aproximação do gráfico ao gráfico da distribuição normal e da aproximação da distribuição da população à mediana à medida que as amostras aumentam. No gráfico são distribuídas 500.000 amostras randomicamente em cada range amostral de ([5-vermelho], [20-azul] e [40-verde]), a cor cinza mostra os valores distorcidos da população \cite{statisticsbyjim_central_limite_theorem_explainded}.
 
@@ -60,7 +60,7 @@ Quanto maior o número de subunidades lógicas, quanto mais elas ocorrem, maior 
 \end{figure}
 %\footnotetext{Fonte: note}
 
-Na Tabela \ref{tab:10000_all} está a probabilidade da distribuição binomial entre 100 a 10000, consonante à amostras unificadas. Sua construção se deu com a fórmula da probabilidade binomial geral, que representa uma distribuição uniforme, por meio do algoritmo BinomialDistribuion\_PROB clarificado no Apêndice \ref{app:algoritmos} \cite{mathisfun_binomial_distribution}.
+Na Tabela \ref{tab:10000_all} está a probabilidade da distribuição binomial entre 100 a 10000, consonante à amostras unificadas ou médias amostrais tratadas no teorema central do limite. Sua construção se deu com a fórmula da probabilidade binomial geral, que representa uma distribuição uniforme, por meio do algoritmo BinomialDistribuion\_PROB clarificado no Apêndice \ref{app:algoritmos} \cite{mathisfun_binomial_distribution}.
 \begin{align*}
 f(k;n,p) &= \binom{n}{k} p^k(1 - p)^{n-k}
 \end{align*}
