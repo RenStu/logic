@@ -1,7 +1,7 @@
-\begin{table}[hbtp]
-\caption{Teste}
-\floatfoot{A note for table \footnotemark}
-\label{Tabela 1: Teste}
+\begin{table}[H]
+\caption{Probabilidade da distribuição binomial}
+\floatfoot{Tabela gerada pelo algoritmo BinomialDistribuion\_PROB com a distribuição binomial de 100 a 10000. \footnotemark}
+\label{tab:10000_all}
 \resizebox{\textwidth}{!}{%
 \begin{tabular}{cccc
 >{\columncolor[HTML]{8D3CE1}}c 
@@ -42,4 +42,16 @@
 \end{tabular}%
 }
 \end{table}
-\footnotetext{Fonte: tablesgenerator.com, 2019.}
+\footnotetext{O Apêndice \ref{app:algoritmos} é dedicado a clarificar o algoritmo BinomialDistribuion\_PROB e validar o fórmula da probabilidade binomial geral usada por ele.}
+\vspace{-8mm}
+\begin{description}
+   \item[Meta] Porcentagem das amostras observadas;
+   \item[Soma do Range] Porcentagem que o \textbf{"Range"} atingiu a \textbf{"Meta"}, da mediana para as bordas, descentralizado;Porcentagem que o Range atingiu a Meta, da mediana para as bordas, descentralizado;
+   \item[Range] Range de amostras onde a \textbf{"Meta"} foi atingida do \textbf{"Total de Amostras"};
+   \item[Total de Amostras] Exibe o range total avaliado, no caso da primeira linha da tabela o valor 101 corresponde às possibilidades de 0 a 100, como se fossem lançadas 100 moedas (distribuição binomial) e somassem suas faces voltadas para cima, podendo ser 0 para as caras e 1 para as coroas. Essa soma é uma combinação de possibilidades não uma permutação, ou seja, na permutação [0 1] é uma possibilidade diferente de [1 0], na combinação essa é uma possiblidade, porém com duas probabilidades de ocorrência;
+   \item[Amostras do Range] Quantidade de amostras do \textbf{"Range"} do \textbf{"Total de Amostras"};
+   \item[Porcentagem das Amostras do Range] Porcentagem que o \textbf{"Range} representa do \textbf{"Total de Amostras"};
+   \item[Range de +/- 14\% (28\%) da Mediana] Esse range é  subconjunto do \textbf{"Range"}, formado a partir da mediana somando 14\% a direita e a esquerda, totalizando 28\%. Esses 28\% correspondem a aproximadamente 72\% das amostras da população do Range, que correspondem a 99,99\% da população total. O restante, que representam 72\% \textbf{"Range"}, correspondem a aproximadamente 28\% das amostras. Isso condiz com o Princípio de Pareto também conhecido como a regra do 80/20, que também pode ser 70/30 ou 90/10, por exemplo \cite{administradores_principio_pareto}.
+\end{description}
+\bigbreak
+
