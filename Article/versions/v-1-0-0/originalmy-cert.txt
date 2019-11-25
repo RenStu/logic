@@ -1,0 +1,35 @@
+OriginalMy.com - Certificado de Autenticidade 256-bits ECDSA
+
+##### inicio chave publica (address) #####
+1oriGMy27TK1YyrJuYxPvRparcf5HKuxs
+##### fim chave publica (address) #####
+
+##### inicio assinatura 256-bit ecdsa (signature) #####
+G+vr76XkhB2e7xAhpTCOSeytbXCG7hiPoQf7616thIAqXzZGCf8HHUSTSeLunR5Njy2dCfdZuXD/mSLmdyJz+8g=
+##### fim assinatura 256-bit ecdsa (signature) #####
+
+##### inicio conteudo certificado digital(message) #####
+----- inicio assinatura digital documento (sha256) -----
+92bcea284ced61ef9ef822f92da078f326549477a80e29c0437c34405fffddf4
+----- fim assinatura digital documento (sha256) -----
+----- inicio codigo da transacao blockchain -----
+ETC TX 0xc2c9f43075a300049a6477ad886f5ea2b798965248f94df4eb7c0bacd921a462
+----- fim codigo da transacao blockchain -----
+##### fim conteudo certificado digital(message) #####
+
+Este certificado pode ser verificado em https://insight.bitpay.com/messages/verify ou outros sites equivalentes.
+Para efetuar a verificação desta mensagem, basta colocar as informações entre as ### nos campos correspondentes.
+
+A Assinatura Digital do Documento pode ser encontrada no Blockchain, buscando pelo código da transação 
+e então pelo campo OP_RETURN [assinatura digital do documento]4f5249474d59
+- Em http://www.bitpay.com: clique em '+', ao lado esquerdo do código da transação
+- Em http://blockchain.info: clique em 'Show scripts & Coinbase'
+- Em outros sites, procure a área dos scripts.
+
+IMPORTANTE:
+- Lembre-se de armazenar este arquivo junto ao documento original e aos vídeos de confirmação correspondentes.
+- Para a sua segurança, nós não armazenamos nenhuma informação sobre os seus documentos ou seus vídeos.
+- Distribua os arquivos originais e vídeos entre todos os interessados.
+- Faça backups dos seus arquivos.
+
+Este documento foi gerado na página https://originalmy.com/bitregistro/92bcea284ced61ef9ef822f92da078f326549477a80e29c0437c34405fffddf4
