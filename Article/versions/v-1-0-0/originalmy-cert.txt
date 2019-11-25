@@ -5,7 +5,7 @@ OriginalMy.com - Certificado de Autenticidade 256-bits ECDSA
 ##### fim chave publica (address) #####
 
 ##### inicio assinatura 256-bit ecdsa (signature) #####
-G+vr76XkhB2e7xAhpTCOSeytbXCG7hiPoQf7616thIAqXzZGCf8HHUSTSeLunR5Njy2dCfdZuXD/mSLmdyJz+8g=
+HG29K3h2GslFdu3JuqHpJmFIgIF3B7+OXF5f1SZGfvN4wifb+HQbM1dsy5CjLHlgRVZz/WrXQ4oFmvd92z7w6ZI=
 ##### fim assinatura 256-bit ecdsa (signature) #####
 
 ##### inicio conteudo certificado digital(message) #####
@@ -14,6 +14,8 @@ G+vr76XkhB2e7xAhpTCOSeytbXCG7hiPoQf7616thIAqXzZGCf8HHUSTSeLunR5Njy2dCfdZuXD/mSLm
 ----- fim assinatura digital documento (sha256) -----
 ----- inicio codigo da transacao blockchain -----
 ETC TX 0xc2c9f43075a300049a6477ad886f5ea2b798965248f94df4eb7c0bacd921a462
+DCR TX 74fdf30138fbebacb54ebd54ba3e35b5f971e977a1072c48124408ab6efb9675
+DCR MERKLE 96da1753c4db9c6c19c60ac11f44554da9380df879cfd6eb7df950e034f35996
 ----- fim codigo da transacao blockchain -----
 ##### fim conteudo certificado digital(message) #####
 
