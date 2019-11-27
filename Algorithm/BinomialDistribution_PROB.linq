@@ -80,7 +80,7 @@ BigInteger Fatorial(int value)
 }
 
 
-//https://github.com/AdamWhiteHat/BigDecimal
+//https://github.com/dparker1/BigDecimal/blob/master/BigDecimal/BigDecimal.cs
 public class BigDecimal : IComparable<BigDecimal>, ICloneable
 {
 	private static readonly BigInteger TEN = new BigInteger(10);
