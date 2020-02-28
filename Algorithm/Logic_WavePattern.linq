@@ -22,12 +22,13 @@ public partial class MainForm : Form
 		InitializeComponent();
 	}
 	//###########################################################################
-	private const int LENGHT = 15000;
-	private const int GROUP = 10;
+	private const int LENGHT = 30000;
+	private const int GROUP = 2;
 	private bool nestedHistogram = false;
+	private bool sumValuesOfColumns = true;
 	//###########################################################################
 	private double m_dZoomscale = 1.0;
-	public static double s_dScrollValue = .05;
+	public static double s_dScrollValue = .25;
 	private Point MouseDownLocation;
 	private Matrix transform = null;
 	private NumbsOfCentralLimitTheorem.HistogramResult histogramResult = null;
@@ -71,7 +72,7 @@ public partial class MainForm : Form
 		FillRectangle(gr, Color.Black, histogramResult.Up, histogramResult.MaxValue, false);
 		FillRectangle(gr, Color.Gray, histogramResult.Down, histogramResult.MaxValue, true);
 	}
-	
+
 	private void PrintResult()
 	{
 		if (!printed)
@@ -85,7 +86,7 @@ public partial class MainForm : Form
 				{
 					if (histogramResult.Up[i] % 1 == 0)
 						previousValueOfZ = (int)(previousValueOfZ + 1f);
-					else 
+					else
 						previousValueOfZ += 0.1f;
 					var tuple = (x: histogramResult.Up[i], y: histogramResult.Down[i], z: previousValueOfZ);
 					listTuple.Add(tuple);
@@ -155,6 +156,7 @@ public partial class MainForm : Form
 	{
 		var numbsOfCentralLimitTheorem = new NumbsOfCentralLimitTheorem();
 		numbsOfCentralLimitTheorem.NestedHistogram = nestedHistogram;
+		numbsOfCentralLimitTheorem.SumValuesOfColumns = sumValuesOfColumns;
 		numbsOfCentralLimitTheorem.RandomResult(length);
 		return numbsOfCentralLimitTheorem.GenerateHistogram(group);
 	}
@@ -219,6 +221,7 @@ public class NumbsOfCentralLimitTheorem
 	public int SizeLastList { get; set; }
 	public Dictionary<int, float> Histogram { get; set; }
 	public bool NestedHistogram { get; set; }
+	public bool SumValuesOfColumns { get; set; }
 	private int nestedCountDown = 2;
 
 	public NumbsOfCentralLimitTheorem()
@@ -267,7 +270,10 @@ public class NumbsOfCentralLimitTheorem
 			int key = (int)(value / intervalValue);
 			if (!Histogram.ContainsKey(key))
 				Histogram[key] = 0;
-			Histogram[key]++;
+			if (this.SumValuesOfColumns)
+				Histogram[key] += value - (key * intervalValue);
+			else 
+				Histogram[key]++;
 		}
 		var histogramResult = HistogramResult.Get(Histogram);
 		if (NestedHistogram)
@@ -288,7 +294,7 @@ public class NumbsOfCentralLimitTheorem
 			int key = (int)(value / intervalValue);
 			if (!Histogram.ContainsKey(key))
 				Histogram[key] = keyValue.Value;
-			Histogram[key]-= (1.0F / group);
+			Histogram[key] -= (1.0F / group);
 		}
 		return Histogram;
 	}
@@ -309,7 +315,7 @@ public class NumbsOfCentralLimitTheorem
 		histogramResult.Up = RefreshArray(histogramResult.Up, listUp, listCountMin);
 		histogramResult.Down = RefreshArray(histogramResult.Down, listDown, listCountMin);
 	}
-	
+
 	private float[] RefreshArray(float[] array, List<float> newItens, int listCountMin)
 	{
 		var newArray = new float[array.Count() + listCountMin];
@@ -342,17 +348,19 @@ public class NumbsOfCentralLimitTheorem
 
 	private void StartCurrentList()
 	{
+		var limitPrint = 10000f;
 		var sizeCurrentList = SizeLastList + 1;
 		CurrentList = new float[sizeCurrentList];
 		CurrentList[0] = 0;
-		CurrentList[sizeCurrentList - 1] = float.MaxValue / 2;
+		CurrentList[sizeCurrentList - 1] = float.MaxValue / limitPrint; 
 	}
 
 	private void StartLastList()
 	{
+		var limitPrint = 10000f;
 		LastList = new float[SizeLastList];
 		LastList[0] = 0;
-		LastList[SizeLastList - 1] = float.MaxValue / 2;
+		LastList[SizeLastList - 1] = float.MaxValue / limitPrint; 
 	}
 
 	public class HistogramResult
