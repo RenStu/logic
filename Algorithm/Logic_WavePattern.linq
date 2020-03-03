@@ -24,8 +24,6 @@ public partial class MainForm : Form
 	//###########################################################################
 	private const int LENGHT = 30000;
 	private const int GROUP = 2;
-	private bool nestedHistogram = false;
-	private bool sumValuesOfColumns = true;
 	//###########################################################################
 	private double m_dZoomscale = 1.0;
 	public static double s_dScrollValue = .25;
@@ -155,8 +153,6 @@ public partial class MainForm : Form
 	private NumbsOfCentralLimitTheorem.HistogramResult GetHistogramOfCentralLimitTheorem(int length, int group)
 	{
 		var numbsOfCentralLimitTheorem = new NumbsOfCentralLimitTheorem();
-		numbsOfCentralLimitTheorem.NestedHistogram = nestedHistogram;
-		numbsOfCentralLimitTheorem.SumValuesOfColumns = sumValuesOfColumns;
 		numbsOfCentralLimitTheorem.RandomResult(length);
 		return numbsOfCentralLimitTheorem.GenerateHistogram(group);
 	}
@@ -220,13 +216,9 @@ public class NumbsOfCentralLimitTheorem
 	public float[] CurrentList { get; set; }
 	public int SizeLastList { get; set; }
 	public Dictionary<int, float> Histogram { get; set; }
-	public bool NestedHistogram { get; set; }
-	public bool SumValuesOfColumns { get; set; }
-	private int nestedCountDown = 2;
 
 	public NumbsOfCentralLimitTheorem()
 	{
-		NestedHistogram = false;
 		SizeLastList = 2;
 		StartLastList();
 		StartCurrentList();
@@ -270,97 +262,25 @@ public class NumbsOfCentralLimitTheorem
 			int key = (int)(value / intervalValue);
 			if (!Histogram.ContainsKey(key))
 				Histogram[key] = 0;
-			if (this.SumValuesOfColumns)
-				Histogram[key] += value - (key * intervalValue);
-			else 
-				Histogram[key]++;
+			Histogram[key]++;
 		}
 		var histogramResult = HistogramResult.Get(Histogram);
-		if (NestedHistogram)
-			printMaxInterval(histogramResult, Histogram, intervalValue, group);
 		return histogramResult;
-	}
-
-	public Dictionary<int, float> GenerateHistogram(List<float> ResultList, KeyValuePair<int, float> keyValue, int group)
-	{
-		Histogram = new Dictionary<int, float>();
-		var minValue = ResultList.Min();
-		var maxValue = ResultList.Max();
-		var rangeValue = maxValue - minValue;
-		var amountOfGroups = ResultList.Count / group;
-		var intervalValue = rangeValue / amountOfGroups;
-		foreach (var value in ResultList)
-		{
-			int key = (int)(value / intervalValue);
-			if (!Histogram.ContainsKey(key))
-				Histogram[key] = keyValue.Value;
-			Histogram[key] -= (1.0F / group);
-		}
-		return Histogram;
-	}
-
-	private void printMaxInterval(HistogramResult histogramResult, Dictionary<int, float> histogram, float intervalValue, int group)
-	{
-		var histogramOrdered = histogram.OrderBy(x => x.Key);
-		var middle = histogram.Count / 2;
-		var valueUp = histogramOrdered.ElementAt(middle - nestedCountDown);
-		var valueDown = histogramOrdered.ElementAt(middle + nestedCountDown);
-		var listUp = GenerateList(valueUp, intervalValue);
-		var listDown = GenerateList(valueDown, intervalValue);
-		var histogramUp = GenerateHistogram(listUp, valueUp, group);
-		var histogramDown = GenerateHistogram(listDown, valueDown, group);
-		listUp = histogramUp.Values.ToList();
-		listDown = histogramDown.Values.ToList();
-		var listCountMin = listUp.Count > listDown.Count ? listDown.Count : listUp.Count;
-		histogramResult.Up = RefreshArray(histogramResult.Up, listUp, listCountMin);
-		histogramResult.Down = RefreshArray(histogramResult.Down, listDown, listCountMin);
-	}
-
-	private float[] RefreshArray(float[] array, List<float> newItens, int listCountMin)
-	{
-		var newArray = new float[array.Count() + listCountMin];
-		var rangeValueListMin = newArray.Count() - nestedCountDown - listCountMin;
-		var rangeValueListMax = newArray.Count() - nestedCountDown;
-		for (int i = 1; i <= nestedCountDown; i++)
-			newArray[newArray.Count() - i] = array[array.Count() - i];
-		for (int i = 0; i < newArray.Count() - nestedCountDown; i++)
-		{
-			if (i >= rangeValueListMin && i <= rangeValueListMax)
-				newArray[i] = newItens[i - rangeValueListMin];
-			else
-				newArray[i] = array[i];
-		}
-		return (float[])newArray.Clone();
-	}
-
-	private List<float> GenerateList(KeyValuePair<int, float> keyValue, float intervalValue)
-	{
-		var minValueInterval = keyValue.Key * intervalValue;
-		var maxValueInterval = minValueInterval + intervalValue;
-		var internalList = new List<float>();
-		foreach (var value in ResultList)
-		{
-			if (value >= minValueInterval && value <= maxValueInterval)
-				internalList.Add(value);
-		}
-		return internalList;
 	}
 
 	private void StartCurrentList()
 	{
-		var limitPrint = 10000f;
 		var sizeCurrentList = SizeLastList + 1;
 		CurrentList = new float[sizeCurrentList];
 		CurrentList[0] = 0;
-		CurrentList[sizeCurrentList - 1] = float.MaxValue / limitPrint; 
+		CurrentList[sizeCurrentList - 1] = float.MaxValue / 2; 
 	}
 
 	private void StartLastList()
 	{
-		var limitPrint = 10000f;
 		LastList = new float[SizeLastList];
 		LastList[0] = 0;
-		LastList[SizeLastList - 1] = float.MaxValue / limitPrint; 
+		LastList[SizeLastList - 1] = float.MaxValue / 2; 
 	}
 
 	public class HistogramResult
