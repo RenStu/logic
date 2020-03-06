@@ -2,36 +2,37 @@
 % APÊNDICE A - Algoritmos
 % ----------------------------------------------------------
 \begin{apendicesenv}
+\bigbreak\bigbreak
 \chapter{Algoritmos}
 \label{app:algoritmos}
-	O algoritmo BinomialDistribution\_PROB tem como resultado a probabilidade de distribuição de um range e utiliza a fórmula  da probabilidade binomial geral abaixo. Esse algoritmo tem o mesmo resultado do algoritmo Distribution\_PROB, porém a execução do BinomialDistribution\_PROB é muito mais rápida e tem maior capacidade por usar números grandes como o BigInteger e o BigDecimal. Ambos os algoritmos foram feitos em C\# com o LINQPad 5 \footnotemark. Na Figura \ref{fig:BinomialDistribution_PROB_and_Distribution_PROB} é mostrado o resultado dos algoritmos para o range de 0 a 10, análogo ao lançamento de 10 moedas ao chão e somado os valores de caras e coras, sendo, por exemplo, a coroa com o valor um e a cara o valor dois. O algoritmo Distribution\_PROB soma cada uma das 1024 possibilidades [1,1,1,1,1,1,1,1,1,1 - 1,1,1,1,1,1,1,1,1,2 - ....] e agrupa esses valores somados. No algoritmo Distribution\_PROB esse conjunto de possibilidades é um produto cartesiano das possíveis combinações, o que torna esse algoritmo lento rapidamente, porém ele é importante para validar e facilitar o entendimento da a fórmula da probabilidade binomial geral utilizada no algoritmo BinomialDistribution\_PROB \cite{mathisfun_binomial_distribution}. Na Figura \ref{fig:BinomialDistribution_PROB_and_Distribution_PROB}, a tabela no interior de  Distribution\_PROB mostra esse agrupamento e o total de possibilidades, 1024. Ao dividir cada valor agrupado pelo total tem-se o resultado probabilístico alcançado pela fórmula empregada no BinomialDistribution\_PROB. Por exemplo, a probabilidade do somatório das 10 moedas lançadas ser 12 é igual a 45/1024, que é 0,0439453125 ou 4,39\%.
+\vspace{-8mm}
+\subsection*{BinomialDistribution\_PROB e Distribution\_PROB}
+O algoritmo BinomialDistribution\_PROB tem como resultado a probabilidade de distribuição de um range e utiliza a fórmula  da probabilidade binomial geral abaixo. Esse algoritmo tem o mesmo resultado do algoritmo Distribution\_PROB, porém a execução do BinomialDistribution\_PROB é muito mais rápida e tem maior capacidade por usar números grandes como o BigInteger e o BigDecimal. Ambos os algoritmos foram feitos em C\# com o LINQPad 5 \footnotemark. Na Figura \ref{fig:BinomialDistribution_PROB_and_Distribution_PROB} é mostrado o resultado dos algoritmos para o range de 0 a 10, análogo ao lançamento de 10 moedas ao chão, somando os valores de caras e coras, podendo a coroa ter o valor um e a cara o valor dois. O algoritmo Distribution\_PROB soma cada uma das 1024 possibilidades [1,1,1,1,1,1,1,1,1,1 - 1,1,1,1,1,1,1,1,1,2 - ....] e agrupa esses valores somados. No algoritmo Distribution\_PROB esse conjunto de possibilidades é um produto cartesiano das possíveis combinações, o que torna esse algoritmo lento, porém ele é importante para validar e facilitar o entendimento da a fórmula da probabilidade binomial geral utilizada no algoritmo BinomialDistribution\_PROB \cite{mathisfun_binomial_distribution}. Na Figura \ref{fig:BinomialDistribution_PROB_and_Distribution_PROB}, a tabela no interior de  Distribution\_PROB mostra esse agrupamento e o total de possibilidades, 1024. Ao dividir cada valor agrupado pelo total tem-se o resultado probabilístico alcançado pela fórmula empregada no BinomialDistribution\_PROB. Por exemplo, a probabilidade do somatório das 10 moedas lançadas ser 12 é igual a 45/1024, que é 0,0439453125 ou 4,39\%.
 \footnotetext{O LINQPad 5 é encontrado em \url{www.linqpad.net} e pode ser utilizado em sua versão livre, Standard edition, sem expiração.}
 \begin{align*}
 f(k;n,p) &= \binom{n}{k} p^k(1 - p)^{n-k}
 \end{align*}
-
 \begin{figure}[H]
 \caption{Resultado dos algoritmos  BinomialDistribution\_PROB e Distribution\_PROB}
 \label{fig:BinomialDistribution_PROB_and_Distribution_PROB}
 \centering
-\includegraphics[scale=.75]{sections/images/BinomialDistribution_PROB_and_Distribution_PROB.jpg}
+\includegraphics[scale=.77]{sections/images/BinomialDistribution_PROB_and_Distribution_PROB.jpg}
 \floatfoot{O algoritmo Distribution\_PROB tem o intuito que clarificar a essência probabilística do teorema central do limite.} %\footnotemark.
 \end{figure}
 
 O algoritmo Distribution\_PROB também pode ser utilizado para o lançamento de 5 dados de 6 lados ou 6 dados de 5 lados, por exemplo. Como pode ser observado na Figura abaixo, a distribuição das probabilidades no lance dos dados é semelhante à distribuição binomial, das moedas.
-
 \begin{figure}[H]
 \centering
 	\begin{subfigure}[H]{0.47\linewidth}
 	\centering
-	\includegraphics[width=.7\linewidth]{sections/images/Distribution_PROB_5_6.jpg}
+	\includegraphics[width=.6\linewidth]{sections/images/Distribution_PROB_5_6.jpg}
 	\caption{5 dados de 6 lados}
 	\label{fig:Distribution_PROB_5_6}
 	\end{subfigure}
 \hfill
 	\begin{subfigure}[H]{0.47\linewidth}
 	\centering
-	\includegraphics[width=.72\linewidth]{sections/images/Distribution_PROB_6_5.jpg}
+	\includegraphics[width=.62\linewidth]{sections/images/Distribution_PROB_6_5.jpg}
 	\caption{6 dados de 5 lados}
 	\label{fig:Distribution_PROB_6_5}
 	\end{subfigure}%
@@ -40,27 +41,7 @@ O algoritmo Distribution\_PROB também pode ser utilizado para o lançamento de 
 \floatfoot{A distribuição das probabilidades no lance dos dados é consonante à distribuição binomial.} %\protect\footnotemark
 \end{figure}
 
-O algoritmo Logic\_WavePattern tem como resultado a exibição de um histograma que assume o padrão de ondas quando colocados lado a lado cada uma de suas barras do lado esquerdo e lado direito da mediana. Esse histograma é gerado a partir da randomização de valores conforme Figura \ref{fig:consciousness_logical_moments} e Figura \ref{fig:consciousness}, seguindo o Teorema central do limite.
-
-\begin{figure}[H]
-\caption{Histograma em padrão de ondas do algoritmo Logic\_WavePattern}
-\label{fig:logic_wavepattern_15000}
-\centering
-\includegraphics[scale=.25]{sections/images/logic_wavepattern_15000.jpg}
-\floatfoot{Resultado gerado randomicamente e exibido pelo algoritmo Logic\_WavePattern.} %\footnotemark.
-\end{figure}
-
-Outro resultado do algoritmo Logic\_WavePattern é obtido a partir do console do LINQPad 5, onde se tem como saída um arquivo do tipo .csv que pode ser importado no Chart Studio da plotly \url{https://chart-studio.plot.ly/create} para geração de um gráfico de dispersão 3D. O mais importante do gráfico são os pontos que representam a matéria gerada a partir das ondas pelas três coordenadas do espaço, as linhas são usadas para facilitar a visualização das aspirais que já começam a se formar mesmo como volumes muito baixo de dados. 
-
-\begin{figure}[H]
-\caption{Gráfico de dispersão 3D do algoritmo Logic\_WavePattern}
-\label{fig:plotly_3DScatter}
-\centering
-\includegraphics[scale=.35]{sections/images/plotly_3DScatter.jpg}
-\floatfoot{O exemplo pode ser acessado em: \url{https://chart-studio.plot.ly/create/?fid=ren.stuchi:5&fid=ren.stuchi:4}.} %\footnotemark.
-\end{figure}
-
-\subsection*{BinomialDistribution\_PROB [Code]}
+\subsubsection*{BinomialDistribution\_PROB [Code]}
 Para execução deste trecho de código é necessário a implementação do BigDecimal, um exemplo dessa implementação, pode ser observado, obedecendo os direitos de licença de software proprietários em \cite{ github_bigdecimal}. Este estudo não distribui e nem se responsabiliza pela porção do código referente à implementação do BigDecimal, ficando essas responsabilidades  à cargo do executor deste trecho de software.
 
 \bigbreak
@@ -163,7 +144,7 @@ public static class BinomailDistribuition
 
 \bigbreak
 \bigbreak
-\subsection*{Distribution\_PROB [Code]}
+\subsubsection*{Distribution\_PROB [Code]}
 \begin{lstlisting}
 //https://exercicios.brasilescola.uol.com.br/exercicios-matematica/
 //exercicios-sobre-probabilidade-condicional.htm#questao-1
@@ -236,7 +217,26 @@ public static class CartesianProductContainer
 
 
 \bigbreak \bigbreak
-\subsection*{Logic\_WavePattern [Code]}
+\subsection*{Logic\_WavePattern}
+O algoritmo Logic\_WavePattern tem como resultado a exibição de um histograma que assume o padrão de ondas quando colocados lado a lado cada uma de suas barras do lado esquerdo e do lado direito da mediana. Este histograma é gerado a partir da randomização de valores conforme Figura \ref{fig:consciousness_logical_moments} e Figura \ref{fig:consciousness}, seguindo o Teorema central do limite.
+\begin{figure}[H]
+\caption{Histograma em padrão de ondas do algoritmo Logic\_WavePattern}
+\label{fig:logic_wavepattern_15000}
+\centering
+\includegraphics[scale=.25]{sections/images/logic_wavepattern_15000.jpg}
+\floatfoot{Resultado gerado randomicamente e exibido pelo algoritmo Logic\_WavePattern.} %\footnotemark.
+\end{figure}
+
+Outro resultado do algoritmo Logic\_WavePattern é obtido a partir do console do LINQPad 5, onde se tem como saída um arquivo no formato ".csv" que pode ser importado no Chart Studio da Plotly \url{https://chart-studio.plot.ly/create} para geração de um gráfico de dispersão 3D. O mais importante do gráfico são os pontos que representam a matéria gerada a partir das ondas pelas três coordenadas do espaço, as linhas são usadas para facilitar a visualização das espirais que já começam a se formar mesmo como volumes muito baixo de dados. 
+\begin{figure}[H]
+\caption{Gráfico de dispersão 3D do algoritmo Logic\_WavePattern}
+\label{fig:plotly_3DScatter}
+\centering
+\includegraphics[scale=.33]{sections/images/plotly_3DScatter.jpg}
+\floatfoot{O exemplo pode ser acessado em: \url{https://chart-studio.plot.ly/create/?fid=ren.stuchi:5&fid=ren.stuchi:4}.} %\footnotemark.
+\end{figure}
+
+\subsubsection*{Logic\_WavePattern [Code]}
 \begin{lstlisting}
 //http://csharphelper.com/blog/2015/09/draw-a-simple-histogram-in-c/
 //https://github.com/naudio/NAudio.WaveFormRenderer
