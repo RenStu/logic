@@ -5,10 +5,12 @@
 \bigbreak\bigbreak
 \chapter{Algoritmos}
 \label{app:algoritmos}
-\vspace{-8mm}
+%\vspace{-8mm}
 \subsection*{BinomialDistribution\_PROB e Distribution\_PROB}
+%\enlargethispage{40mm}
 O algoritmo BinomialDistribution\_PROB tem como resultado a probabilidade de distribuição de um range e utiliza a fórmula  da probabilidade binomial geral abaixo. Esse algoritmo tem o mesmo resultado do algoritmo Distribution\_PROB, porém a execução do BinomialDistribution\_PROB é muito mais rápida e tem maior capacidade por usar números grandes como o BigInteger e o BigDecimal. Ambos os algoritmos foram feitos em C\# com o LINQPad 5 \footnotemark. Na Figura \ref{fig:BinomialDistribution_PROB_and_Distribution_PROB} é mostrado o resultado dos algoritmos para o range de 0 a 10, análogo ao lançamento de 10 moedas ao chão, somando os valores de caras e coras, podendo a coroa ter o valor um e a cara o valor dois. O algoritmo Distribution\_PROB soma cada uma das 1024 possibilidades [1,1,1,1,1,1,1,1,1,1 - 1,1,1,1,1,1,1,1,1,2 - ....] e agrupa esses valores somados. No algoritmo Distribution\_PROB esse conjunto de possibilidades é um produto cartesiano das possíveis combinações, o que torna esse algoritmo lento, porém ele é importante para validar e facilitar o entendimento da a fórmula da probabilidade binomial geral utilizada no algoritmo BinomialDistribution\_PROB \cite{mathisfun_binomial_distribution}. Na Figura \ref{fig:BinomialDistribution_PROB_and_Distribution_PROB}, a tabela no interior de  Distribution\_PROB mostra esse agrupamento e o total de possibilidades, 1024. Ao dividir cada valor agrupado pelo total tem-se o resultado probabilístico alcançado pela fórmula empregada no BinomialDistribution\_PROB. Por exemplo, a probabilidade do somatório das 10 moedas lançadas ser 12 é igual a 45/1024, que é 0,0439453125 ou 4,39\%.
 \footnotetext{O LINQPad 5 é encontrado em \url{www.linqpad.net} e pode ser utilizado em sua versão livre, Standard edition, sem expiração.}
+%\enlargethispage{-50mm}
 	\begin{align*}
 	f(k;n,p) &= \binom{n}{k} p^k(1 - p)^{n-k}
 	\end{align*}
@@ -217,7 +219,7 @@ public static class CartesianProductContainer
 
 \bigbreak \bigbreak
 \subsection*{Logic\_WavePattern}
-O algoritmo Logic\_WavePattern tem como resultado a exibição de um histograma que assume o padrão de ondas quando colocados lado a lado cada uma de suas barras do lado esquerdo e do lado direito da mediana. Este histograma é gerado a partir da randomização de valores conforme Figura \ref{fig:consciousness_logical_moments} e Figura \ref{fig:consciousness}, seguindo o Teorema central do limite.
+O algoritmo Logic\_WavePattern tem como resultado a exibição de um histograma que assume o padrão de ondas quando colocados lado a lado cada uma de suas barras do lado esquerdo e do lado direito da mediana. Este histograma é gerado a partir da randomização de valores conforme Figura \ref{fig:consciousness_logical_moments} e Figura \ref{fig:consciousness}, seguindo o teorema central do limite.
 	\begin{figure}[H]
 	\caption{Histograma em padrão de ondas do algoritmo Logic\_WavePattern}
 	\label{fig:logic_wavepattern_15000}
