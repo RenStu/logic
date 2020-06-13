@@ -1,0 +1,17 @@
+Lógica, Apenas Lógica (Artigo)
+
+ 2019/11/25 [1.0.0]
+  - Versão inicial;
+
+ 2020/03/06 [1.1.0]
+  - Alterado nome da seção de Expansão binomial para Expansão lógica.
+  - Atualizado todas as subseções da consciência;
+  - Adicionado subseção da consciência - Ondas;
+  - Adicionado subseção da consciência - Forças Fundamentais;
+  - Adicionado o algoritmo Logic_WavePattern no Apêndice de Algoritmos.
+
+ 2020/06/13 [1.1.1]
+  - Alterado nome da seção de Expansão binomial para Expansão lógica
+  - Adicionado subitem - Comprimento de onda (Área) - na subseção de Espaço;
+  - Adicionado subitem - Amplitude de onda (Volume) - na subseção de Espaço;
+  - Adicionado subitem - Espiral - na subseção de Espaço.
