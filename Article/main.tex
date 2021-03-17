@@ -27,19 +27,13 @@
 	sumario=tradicional
 	]{abntex2}
 
-
 \ifthenelse{\equal{\ABNTEXisarticle}{true}}{%
 \renewcommand{\maketitlehookb}{}
 }{}
 
 % ---
-% PACOTES
-% ---
-
-% ---
 % Pacotes fundamentais 
 % ---
-
 \usepackage{lmodern}			% Usa a fonte Latin Modern
 \usepackage[T1]{fontenc}		% Selecao de codigos de fonte.
 \usepackage[utf8]{inputenc}		% Codificacao do documento (conversão automática dos acentos)
@@ -57,9 +51,10 @@
 \usepackage[table,xcdraw]{xcolor}
 \usepackage{listings}
 \usepackage{amssymb}
-
 % ---
+
 \DeclareMathOperator*{\varsum}{\scalerel*{\scriptstyle\Sigma}{\sum}}
+
 % ---
 % Pacotes adicionais, usados apenas no âmbito do Modelo Canônico do abnteX2
 % ---
@@ -72,61 +67,6 @@
 \usepackage[brazilian,hyperpageref]{backref}	 % Paginas com as citações na bibl
 \usepackage[alf]{abntex2cite}	% Citações padrão ABNT
 % ---
-
-
-% ---
-% Configurações do pacote backref
-% Usado sem a opção hyperpageref de backref
-\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
-% Texto padrão antes do número das páginas
-\renewcommand{\backref}{}
-% Define os textos da citação
-\renewcommand*{\backrefalt}[4]{
-	\ifcase #1 %
-		Nenhuma citação no texto.%
-	\or
-		Citado na página #2.%
-	\else 
-		Citado #1 vezes nas páginas #2.%
-	\fi}%
-% ---
-
-% --- Informações de dados para CAPA e FOLHA DE ROSTO ---
-\titulo{Lógica, Apenas Lógica}
-\tituloestrangeiro{Logic, Logic Only}
-
-\autor{
-Renan Aparecido Stuchi\thanks{E-mail: \href{malito:ren.stuchi@gmail.com}{ren.stuchi@gmail.com} | GitHub: private repo \url{https://github.com/RenStu/logic} } }
-
-\local{Brasil}
-\data{2020, v-1.1.1}
-% ---
-
-% ---
-% Configurações de aparência do PDF final
-
-% alterando o aspecto da cor azul
-\definecolor{blue}{RGB}{41,5,195}
-
-% informações do PDF
-\makeatletter
-\hypersetup{
-     	%pagebackref=true,
-		pdftitle={\@title}, 
-		pdfauthor={\@author},
-    	pdfsubject={Filosofia lógica e metafísica},
-	    pdfcreator={LaTeX with abnTeX2},
-		pdfkeywords={lógica. }{nada. }{tudo. }{binômio. }{expansão lógica. }{teorema central do limite. }{consciência. }{infinito. }{ondas. }{tempo. }{espaço. }{forças fundamentais. }{força gravitacional. }{força eletromagnética. }{força nuclear forte. }{força nuclear fraca. }{matéria escura. }{energia escura. }{antimatéria. }{buraco negro.},
-%		pdfkeywords={lógica. }{nada. }{tudo. }{infinito. },
-		colorlinks=true,       		% false: boxed links; true: colored links
-    	linkcolor=blue,          	% color of internal links
-    	citecolor=blue,        		% color of links to bibliography
-    	filecolor=magenta,      	% color of file links
-		urlcolor=blue,
-		bookmarksdepth=4
-}
-\makeatother
-% --- 
 
 % ---
 % compila o indice
@@ -145,17 +85,17 @@ Renan Aparecido Stuchi\thanks{E-mail: \href{malito:ren.stuchi@gmail.com}{ren.stu
 % --- 
 % Espaçamentos entre linhas e parágrafos 
 % --- 
-
 % O tamanho do parágrafo é dado por:
 \setlength{\parindent}{1.3cm}
-
 % Controle do espaçamento entre um parágrafo e outro:
 \setlength{\parskip}{0.2cm}  % tente também \onelineskip
-
 % Espaçamento simples
 \SingleSpacing
+% ---
 
+% ---
 % Fomatação C# code
+% ---
 %\setmonofont{Consolas} %to be used with XeLaTeX or LuaLaTeX
 \definecolor{bluekeywords}{rgb}{0,0,1}
 \definecolor{greencomments}{rgb}{0,0.5,0}
@@ -179,7 +119,13 @@ Renan Aparecido Stuchi\thanks{E-mail: \href{malito:ren.stuchi@gmail.com}{ren.stu
 	stringstyle=\color{redstrings},
 	basicstyle=\ttfamily\tiny,
 }
+% ---
 
+% ----------------------------------------------------------
+% ELEMENTO PDF-INFO
+% ----------------------------------------------------------
+	% Infomações do PDF
+	\include{sections/pdf-info}
 
 % ----
 % Início do documento
@@ -198,7 +144,7 @@ Renan Aparecido Stuchi\thanks{E-mail: \href{malito:ren.stuchi@gmail.com}{ren.stu
 	\frenchspacing 
 
 	% ----------------------------------------------------------
-	% ELEMENTOS PRÉ-TEXTUAIS
+	% ELEMENTO PRÉ-TEXTUAL
 	% ----------------------------------------------------------
 		% Resumo
 		\include{sections/pre-textual}
@@ -231,3 +177,4 @@ Renan Aparecido Stuchi\thanks{E-mail: \href{malito:ren.stuchi@gmail.com}{ren.stu
 		\input{sections/appendix_a}
 
 \end{document}
+% ----

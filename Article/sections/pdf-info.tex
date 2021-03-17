@@ -1,0 +1,53 @@
+% ---
+% Configurações do pacote backref
+% Usado sem a opção hyperpageref de backref
+\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+% Texto padrão antes do número das páginas
+\renewcommand{\backref}{}
+% Define os textos da citação
+\renewcommand*{\backrefalt}[4]{
+	\ifcase #1 %
+		Nenhuma citação no texto.%
+	\or
+		Citado na página #2.%
+	\else 
+		Citado #1 vezes nas páginas #2.%
+	\fi}%
+% ---
+
+% --- Informações de dados para CAPA e FOLHA DE ROSTO ---
+\titulo{Lógica, Apenas Lógica}
+\tituloestrangeiro{Logic, Logic Only}
+
+\autor{
+Renan Aparecido Stuchi\thanks{E-mail: \href{malito:ren.stuchi@gmail.com}{ren.stuchi@gmail.com} | GitHub: private repo \url{https://github.com/RenStu/logic} } }
+
+\local{Brasil}
+\data{2020, v-1.1.1}
+% ---
+
+% ---
+% Configurações de aparência do PDF final
+
+% alterando o aspecto da cor azul
+\definecolor{blue}{RGB}{41,5,195}
+
+% informações do PDF
+\makeatletter
+\hypersetup{
+     	%pagebackref=true,
+		pdftitle={\@title}, 
+		pdfauthor={\@author},
+    	pdfsubject={Lógica (negação de si) - A natureza fundamental da realidade, do conhecimento e da existência.},
+	    pdfcreator={LaTeX with abnTeX2},
+		pdfkeywords={lógica. }{nada. }{tudo. }{binômio. }{expansão lógica. }{teorema central do limite. }{consciência. }{infinito. }{ondas. }{tempo. }{espaço. }{forças fundamentais. }{força gravitacional. }{força eletromagnética. }{força nuclear forte. }{força nuclear fraca. }{matéria escura. }{energia escura. }{antimatéria. }{buraco negro.},
+%		pdfkeywords={lógica. }{nada. }{tudo. }{infinito. },
+		colorlinks=true,       		% false: boxed links; true: colored links
+    	linkcolor=blue,          	% color of internal links
+    	citecolor=blue,        		% color of links to bibliography
+    	filecolor=magenta,      	% color of file links
+		urlcolor=blue,
+		bookmarksdepth=4
+}
+
+\makeatother
