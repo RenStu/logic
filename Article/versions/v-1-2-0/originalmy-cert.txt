@@ -1,0 +1,23 @@
+OriginalMy.com - Certificado de Autenticidade 256-bits ECDSA
+
+##### inicio conteudo certificado digital(message) #####
+----- inicio assinatura digital documento (sha256) -----
+b0fdc025cbd6afe838727e6c3f4e407c3599dd26b8452c552943e9d8f622f34a
+----- fim assinatura digital documento (sha256) -----
+
+----- inicio codigo da transacao blockchain -----
+ETC TX 0xaa959aece4ed9d28cbeeb11c982f73a49914efc04c13cec7d65e4e435a30098e
+DCR TX 6133557f21e629dcf26fcf5574618d76df4460adf8a81a5a05b5cdda736540a3
+DCR Merkle 812fee81bdd7787a06280d99378df6effcba4d02b64531c855b869123f7aeeb8
+----- fim codigo da transacao blockchain -----
+##### fim conteudo certificado digital(message) #####
+
+Este certificado pode ser verificado em https://originalmy.com/search_by_sha.
+
+IMPORTANTE:
+- Lembre-se de armazenar este arquivo junto ao documento original e aos vídeos de confirmação correspondentes.
+- Para a sua segurança, nós não armazenamos nenhuma informação sobre os seus documentos ou seus vídeos.
+- Distribua os arquivos originais e vídeos entre todos os interessados.
+- Faça backups dos seus arquivos.
+
+Este documento foi gerado na página https://originalmy.com/bitregistro/b0fdc025cbd6afe838727e6c3f4e407c3599dd26b8452c552943e9d8f622f34a
