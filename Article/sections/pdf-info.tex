@@ -1,23 +1,26 @@
 % ---
 % Configurações do pacote backref
 % Usado sem a opção hyperpageref de backref
-\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+\renewcommand{\backrefpagesname}{Cited on the page(s):~} %Citado na(s) página(s):~%
 % Texto padrão antes do número das páginas
 \renewcommand{\backref}{}
 % Define os textos da citação
 \renewcommand*{\backrefalt}[4]{
 	\ifcase #1 %
-		Nenhuma citação no texto.%
+		%Nenhuma citação no texto.%
+		No citations in text.%
 	\or
-		Citado na página #2.%
+		%Citado na página #2.%
+		Cited on the page #2.%
 	\else 
-		Citado #1 vezes nas páginas #2.%
+		%Citado #1 vezes nas páginas #2.%
+		Cited #1 times on pages #2.%
 	\fi}%
 % ---
 
 % --- Informações de dados para CAPA e FOLHA DE ROSTO ---
-\titulo{Lógica, Apenas Lógica}
-\tituloestrangeiro{Logic, Logic Only}
+\titulo{Logic, Logic Only}
+\tituloestrangeiro{Lógica, Apenas Lógica}
 
 \autor{
 Renan Aparecido Stuchi\thanks{E-mail: \href{malito:ren.stuchi@gmail.com}{ren.stuchi@gmail.com} | GitHub: private repo \url{https://github.com/RenStu/logic} } }
@@ -38,9 +41,9 @@ Renan Aparecido Stuchi\thanks{E-mail: \href{malito:ren.stuchi@gmail.com}{ren.stu
      	%pagebackref=true,
 		pdftitle={\@title}, 
 		pdfauthor={\@author},
-    	pdfsubject={Lógica (negação de si) - A natureza fundamental da realidade, do conhecimento e da existência.},
+    	pdfsubject={Logic (self-negation) - The fundamental nature of reality, knowledge and existence.},
 	    pdfcreator={LaTeX with abnTeX2},
-		pdfkeywords={lógica. }{nada. }{tudo. }{expansão lógica. }{teorema central do limite. }{consciência. }{infinito. }{ondas. }{tempo. }{espaço. }{forças fundamentais. }{força gravitacional. }{força eletromagnética. }{força nuclear forte. }{força nuclear fraca. }{matéria escura. }{energia escura. }{antimatéria. }{buraco negro.}{observador e a vida.},
+		pdfkeywords={logic. }{nothing. }{everything. }{logical expansion. }{central limit theorem. }{consciousness. }{infinite. }{waves. }{time. }{space. }{fundamental forces. }{gravitational force. }{electromagnetic force. }{weak and strong nuclear force. }{dark matter. }{dark energy. }{antimatter. }{black hole. }{observer and life. },
 		colorlinks=true,       		% false: boxed links; true: colored links
     	linkcolor=blue,          	% color of internal links
     	citecolor=blue,        		% color of links to bibliography
