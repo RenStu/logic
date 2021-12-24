@@ -97,7 +97,8 @@ public static class BinomailDistribuition
             var middle = (middleRight - middleLeft) / 2;
             var middlePercent = ((middleRight - middleLeft) * 14) / 100;
             var list = results.Where((x, i) => i >= middleLeft && i <= middleRight).ToList();
-            var listPareto = list.Where((x, i) => i >= (middle - middlePercent) && i <= (middle + middlePercent)).ToList();
+            var listPareto = list.Where((x, i) => i >= (middle - middlePercent) 
+                                               && i <= (middle + middlePercent)).ToList();
             var percentOfSum = (middleRight - middleLeft) * 100 / resultCount;
             var sumPercent = sum * new BigDecimal(100, 0, 1000000000);
             var paretoResult = new BigDecimal(0, 0, 1000000000);

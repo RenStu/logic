@@ -22,3 +22,6 @@ Lógica, Apenas Lógica (Artigo)
   - Atualização e detalhamento das forças fundamentais;
   - Atualização das subseções de Matéria escura e energia escura, Antimatéria e Buraco negro;
   - Adicionado a subseção do Observador e a vida na seção da Consciência.
+
+2021/12/24 [1.2.1]
+  - Tradução de todo o artigo.
