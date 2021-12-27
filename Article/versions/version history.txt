@@ -1,27 +1,26 @@
-Lógica, Apenas Lógica (Artigo)
+Logic, Logic Only (Article)
 
  2019/11/25 [1.0.0]
-  - Versão inicial;
+  - Initial version;
 
  2020/03/06 [1.1.0]
-  - Alterado nome da seção de Expansão binomial para Expansão lógica.
-  - Atualizado todas as subseções da consciência;
-  - Adicionado subseção da consciência - Ondas;
-  - Adicionado subseção da consciência - Forças Fundamentais;
-  - Adicionado o algoritmo Logic_WavePattern no Apêndice de Algoritmos.
+  - Changed section name from Binomial Expansion to Logical Expansion;
+  - Updated all subsections of consciousness;
+  - Added subsection of consciousness - Waves;
+  - Added subsection of consciousness - Fundamental Forces;
+  - Added the Logic_WavePattern algorithm in the Algorithms Appendix.
 
  2020/06/13 [1.1.1]
-  - Alterado nome da seção de Expansão binomial para Expansão lógica
-  - Adicionado subitem - Comprimento de onda (Área) - na subseção de Espaço;
-  - Adicionado subitem - Amplitude de onda (Volume) - na subseção de Espaço;
-  - Adicionado subitem - Espiral - na subseção de Espaço.
+  - Added sub-item Wavelength in the Space subsection;
+  - Added sub-item Wave Amplitude in the Space subsection;
+  - Added sub-item Spiral in the Space subsection.
 
 2021/05/17 [1.2.0]
-  - Atualização da Introdução;
-  - Organização e atualização das subseções de Comprimento e amplitude, Entrelaçamento e Salto dentro da subseção de Ondas;
-  - Atualização e detalhamento das forças fundamentais;
-  - Atualização das subseções de Matéria escura e energia escura, Antimatéria e Buraco negro;
-  - Adicionado a subseção do Observador e a vida na seção da Consciência.
+  - Introduction Update;
+  - Organizing and updating the subsections on Wavelength, Wave Amplitude, Entanglement and Jump within the Waves subsection;
+  - Update and detailing of fundamental forces;
+  - Update of Dark Matter and Dark Energy, Antimatter and Black Hole subsections;
+  - Added the Observer and life subsection to the Consciousness section.
 
 2021/12/24 [1.2.1]
-  - Tradução de todo o artigo.
+  - Translation of the entire article into English.
