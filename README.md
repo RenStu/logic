@@ -158,7 +158,7 @@ The ability to compare or distinguish the order of changes in a sequence of samp
 
 The logical ability to make probabilistic prospections, within the logical limitations of the observer and based on the probability of distribution of the observed interval or subinterval, is the essence of thinking and, therefore, of life. These prospections are based on the probability of distribution of each interval (in the direction of the interval) and, therefore, are related to pattern detection and future probabilistic possibilities.
 
-***More details about the Observer and life section can be found in the [full paper](#download-the-full-paper).***
+***More details about the Observer and life section can be found in the [full paper](#%EF%B8%8F-download-the-full-paper).***
 
 ## What is space?
 
@@ -259,7 +259,7 @@ Merging or summing the opposite intervals would make them a symmetric interval, 
 
 ## 
 
-***More details about each section and other sections such as black hole, nuclear forces, dark energy, dark matter, observer and life, among others, can be found in the [full paper](#download-the-full-paper).***
+***More details about each section and other sections such as black hole, nuclear forces, dark energy, dark matter, observer and life, among others, can be found in the [full paper](#%EF%B8%8F-download-the-full-paper).***
 
 <br/> 
 
