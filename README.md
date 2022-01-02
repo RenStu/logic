@@ -82,13 +82,13 @@ The unity present in the negation (first logical moment) and in the logical subn
 </p>
 <p align="center">Example of a distribution that approximates the normal distribution.</p>
 
-The blue arrows in the graph below (range of 99,99% of the total samples in the median), will be getting closer and closer to the center of the graph proportionally. Although the its amount increases, the proportion it has in (total samples) decreases. The purple arrows in the graph represent the (total samples). This graph represents 20 runs (100 samples to 2000 samples), with an increment of 100 samples in each run. That is, this theorem reflects a concentration of samples towards the median of the population, ***a probabilistic path***.
+The blue arrows in the graph below (range 99.99% of the total samples close to the median), will be getting closer and closer to the center of the graph proportionally. Although the its amount increases, the proportion it has in (total samples) decreases. The purple arrows in the graph represent the (total samples). This graph represents 20 runs (100 samples to 2000 samples), with an increment of 100 samples in each run. That is, this theorem reflects a concentration of samples towards the median of the population, ***a probabilistic path***.
 
-<p align="center">Comparison of total samples with a range of 99.99% of the total samples in the median</p>
+<p align="center">Comparison of total samples with a range 99.99% of the total samples close to the median</p>
 <p align="center">
 <img width="35%" src="/Article/sections/images/total_comparison_chart_with_99_range.jpg">
 </p>
-<p align="center">The purple arrows represent the (total samples) and the blue arrows the (range of 99,99% of the total samples in the median).</p>
+<p align="center">The purple arrows represent the (total samples) and the blue arrows the (range 99.99% of the total samples close to the median).</p>
 
 This work will treat the words logical moment as the unified logical moment from now on.
 
