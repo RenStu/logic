@@ -18,6 +18,8 @@ According to the online English dictionary [Collins](https://www.collinsdictiona
 
 The word logic, in its essence, fits perfectly with the definition of nothing - [NOT BEING]. Logic is centered on change and change is centered on that which [IS NOT], since that which [is] (being), cannot cease to be in order to transform. Change requires that at some point something ceases to be what it was in order to be transformed. In [Palmer (2020)](https://plato.stanford.edu/archives/win2020/entries/parmenides/) Parmenides, the philosopher of the unity and identity of being, says that continuous change is the main characteristic of [NOT BEING]. For Parmenides the [being] is one - singular, eternal, ungenerated, and unchanging.
 
+In this duality, existence is based on logic, which [IS NOT - NEGATES ITSELF], while [is - being] illogical, immutable and non-existent. In this way, [being] limits existence by defining the non-existent, the immutable and the illogical while [IS NOT] *ad infinitum*.
+
 ## [Axioms](#axioms-of-primordial-logic) of primordial logic
 
 <p align="center">Primordial Logic analogy</p>
