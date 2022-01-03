@@ -126,9 +126,9 @@ These entanglements form smaller waves, similar to the largest wave in the entir
 </p>
 <p align="center">The wave pattern forms smaller waves similar to the pattern created by largest wave in the entire interval.</p>
 
-The length and amplitude of waves establish a quantity-per-interval or unit relationship. These units are established by wave entanglement.
-
 The jump is a reordering done by wave entanglement, as the samples of the entangled pairs are no longer equivalent with the addition of new samples from one side of the pair. The jump occurs on one side of a pair of waves and is a reordering, that is, both the part of the interval that has just received the new sample must better match the intended interval for the jump, as well as the reverse.
+
+The length and amplitude of waves establish a quantity-per-interval or unit relationship. These units are established by wave entanglement.
 
 In large intervals with many logical moments a smaller discrepancy of wave amplitudes is observed. In such intervals large systems of objects can be observed. The larger the intervals, the more balanced they grow towards the population median (probabilistically). Wave systems can be complex, having several nested waves. More complex intervals with this feature can represent, for example, the universe, then galaxies, stars, planets, etc.
 
