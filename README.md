@@ -286,5 +286,5 @@ I have a bachelor's degree in information systems specializing in distributed so
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-blueviolet?style=for-the-badge&logo=ko-fi&logoColor=white)](https://renstu.github.io/)<br/>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)<br/>
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)<br/>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-stuchi/)<br/>
+<!--- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)<br/> --->
