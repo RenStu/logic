@@ -22,9 +22,7 @@ Nessa dualidade, tem-se a existência fundamentada pela lógica que [NÃO É –
 ## [Axiomas](#axiomas-da-lógica-primordial) da lógica primordial
 
 <p align="center">Analogia da lógica primordial</p>
-<p align="center">
-<img src="/Article/sections/images/primordial_logic_representation.jpg">
-</p>
+<p align="center"><img src="/Article/sections/images/primordial_logic_representation.jpg"></p>
 <p align="center">Reta utilizada para representar e validar o conceito da lógica primordial.</p>
 
 Na Figura acima, a analogia a reta é utilizada para facilitar o raciocínio. Com base
@@ -41,17 +39,13 @@ nessa Figura pode-se extrair as seguintes observações (***axiomas***) em rela�
 A lógica primordial (negação de si) cria expansões lógicas infinitas. Uma expansão lógica é análoga a um universo. O primeiro momento lógico é o início de uma dessas expansões, porém existem infinitas possibilidades de negação do primeiro momento lógico, o que revela infinitas expansões lógicas.
 
 <p align="center">Primeiro momento lógico</p>
-<p align="center">
-<img src="/Article/sections/images/first_logical_moment.jpg">
-</p>
+<p align="center"><img src="/Article/sections/images/first_logical_moment.jpg"></p>
 <p align="center">Reta fracionada em dois intervalos representando o primeiro momento lógico.</p>
 
 Na Figura acima a união do traço à reta é a representação de uma negação lógica (momento lógico). Da negação da lógica em [ser] surgi esses dois subintervalos lógicos ou duas sub-lógicas (intervalos da reta). Nesse primeiro momento lógico o segmento em azul representa a negação da lógica em [ser] o todo ilógico (a reta).
 
 <p align="center">Momentos lógicos iniciais</p>
-<p align="center">
-<img width="55%" src="/Article/sections/images/third_logical_moment.jpg">
-</p>
+<p align="center"><img width="55%" src="/Article/sections/images/third_logical_moment.jpg"></p>
 <p align="center">Exemplo dos três primeiros momentos de uma expansão.</p>
 
 - **Primeiro momento lógico** A negação da lógica primordial a si, a subdivide em duas unidades, duas sub-lógicas. Apesar dessas partes terem proporções diferentes, elas exprimem as mesmas quantidades de pontos ou possibilidades de mudança, uma vez que são representações da lógica primordial, que *ad infinitum*. A parte fracionada em azul representa a proporção da negação lógica em relação à sua unidade.
@@ -63,33 +57,25 @@ Fundamentado nos [axiomas da lógica primordial](#axiomas-da-lógica-primordial)
 Assim, na Figura abaixo, a negação do primeiro momento lógico nega [ser], já as subnegações dos demais momentos lógicos são subpartes que subnegam o [ser], assim essas subpartes somente negam o [ser] quando somadas ou unificadas conforme o primeiro momento lógico.
 
 <p align="center">Momentos lógicos subdivididos</p>
-<p align="center">
-<img width="55%" src="/Article/sections/images/second_logical_moment.jpg">
-</p>
+<p align="center"><img width="55%" src="/Article/sections/images/second_logical_moment.jpg"></p>
 <p align="center">Exemplo dos dois primeiros momentos de uma expansão.</p>
 
 Na Figura abaixo pode ser observada a representação do primeiro e segundo momentos lógicos, da Figura acima, como unidades lógicas.
 
 <p align="center">Momentos lógicos unificados</p>
-<p align="center">
-<img width="55%" src="/Article/sections/images/logical_units.jpg">
-</p>
+<p align="center"><img width="55%" src="/Article/sections/images/logical_units.jpg"></p>
 <p align="center">Exemplo dos dois primeiros momentos unificados de uma expansão.</p>
 
 A unidade presente na negação (primeiro momento lógico) e nas subnegações lógicas (demais momentos lógicos) é a característica que corresponde ao eixo central do teorema central do limite. Esse teorema afirma que a distribuição amostral de uma população se aproxima de uma distribuição normal à medida que as quantidades das amostras aumentam, independente da forma da distribuição da população. Esse fato é especialmente verdadeiro para a quantidade de amostras acima de 30. Um simples teste que demonstra esse fato é o lançamento de dados não viciados. Quanto maior for o número de lançamento do dado, maior a probabilidade de o gráfico parecer com o gráfico da distribuição normal [(GLEN, 2019)](https://www.statisticshowto.com/probability-and-statistics/normal-distributions/central-limit-theorem-definition-examples/).
 
 <p align="center">Sincronismo probabilístico das amostras contrárias em relação à mediana</p>
-<p align="center">
-<img width="30%" src="/Article/sections/images/trend_chart_of_normal_distribution.jpg">
-</p>
+<p align="center"><img width="30%" src="/Article/sections/images/trend_chart_of_normal_distribution.jpg"></p>
 <p align="center">Exemplo de uma distribuição que se aproxima da distribuição normal.</p>
 
 As setas azuis no gráfico abaixo (intervalo de 99,99% do total de amostras próximas da mediana), estarão cada vez mais perto do centro do gráfico proporcionalmente. Embora a sua quantidade aumente, a proporção que tem no (total de amostras) diminui. As setas roxas no gráfico representam o (total de amostras). Este gráfico representa 20 execuções (100 amostras a 2.000 amostras), com um incremento de 100 amostras em cada execução. Ou seja, este teorema reflete uma concentração de amostras em direção à mediana da população, ***um caminho probabilístico***.
 
 <p align="center">Comparação das amostras totais com um range de 99,99% das amostras totais próximas da mediana</p>
-<p align="center">
-<img width="35%" src="/Article/sections/images/total_comparison_chart_with_99_range.jpg">
-</p>
+<p align="center"><img width="35%" src="/Article/sections/images/total_comparison_chart_with_99_range.jpg"></p>
 <p align="center">As setas roxas representam o (total de amostras) e as setas azuis o (intervalo de 99,99% do total de amostras próximo da mediana).</p>
 
 Este trabalho tratará o termo momento lógico como momento lógico unificado de agora em diante.
@@ -107,9 +93,7 @@ Assim essa sequência simultânea é uma recursão infinita e generalizada na au
 Probabilisticamente a distribuição de novas amostras de uma população tendem a concentrar mais amostras sentido a mediana da população com frequências de amostras cada vez maiores neste sentido. Porém, a distribuição dessas amostras com frequências de crescimento uniformes é infinitesimal se comparado às possibilidades randômicas desse crescimento. Assim, a tendência de crescimento dessas frequências sentido a mediana somadas a baixíssima probabilidade (infinitesimal) desse crescimento ser uniforme, conduz a frequências no padrão de ondas.
 
 <p align="center">Padrão de onda</p>
-<p align="center">
-<img width="50%" src="/Article/sections/images/consciousness_waves.jpg">
-</p>
+<p align="center"><img width="50%" src="/Article/sections/images/consciousness_waves.jpg"></p>
 <p align="center">Padrão de onda inferido pela tendência dessa distribuição com frequências maiores sentido a mediana da população e a baixíssima probabilidade de crescimento uniforme dessas frequências.</p>
 
 As amostras que mais se parecem em termos de frequências e distribuição são as amostras que fazem parte da mesma onda. Elas são frequências opostas não sobrepostas que se completam.
@@ -118,34 +102,28 @@ Probabilisticamente, as duas partes complementares de uma onda tendem a estar a 
 
 Intervalos com frequências temporais e distribuições espaciais parecidas são intervalos formados pela mesma ***unidade probabilística***, ou seja, intervalos que têm o mesmo cenário ou contexto probabilístico em dado momento lógico. Por estarem no mesmo cenário probabilístico (unidades probabilísticas) esses intervalos têm suas amostras no mesmo cenário espaço-temporal, que é chamado de malha espaço-tempo e é formado pela maior unidade probabilística da população (todas as amostras da população intermediadas pela mediana).
 
-These entanglements form smaller waves, similar to the largest wave in the entire interval, usually entangled by the population median.
-
 Esses entrelaçamentos formam ondas menores, semelhantes a maior onda do intervalo, comumente entrelaçada pela mediana da população.
 
 <p align="center">Ondas menores</p>
-<p align="center">
-<img width="50%" src="/Article/sections/images/consciousness_subconscious.jpg">
-</p>
+<p align="center"><img width="50%" src="/Article/sections/images/consciousness_subconscious.jpg"></p>
 <p align="center">O padrão de onda forma ondas menores semelhantes ao padrão criado pela maior onda em todo o intervalo.</p>
 
 O salto é uma reordenação feita pelo entrelaçamento de ondas à medida em que as amostras dos pares entrelaçados deixam de ser equivalentes com a adição de novas amostras em um dos lados do par. O salto ocorre em uma das partes do par de uma onda e é uma reordenação, ou seja, tanto a parte do intervalo que acabou de receber a nova amostra deve melhor se adequar ao intervalo pretendido ao salto quanto o contrário.
+
+Os intervalos menores se entrelaçam primeiro, e estas reordenações provocadas por eles permitem a união de intervalos maiores. O encontro de dois intervalos já entrelaçados não implica um novo entrelaçamento, apenas a soma dessas ondas, pois já estão entrelaçadas.
 
 O comprimento e amplitude de ondas estabelecem uma relação de quantidade por intervalo ou unidade. Essas unidades são estabelecidas pelo entrelaçamento de ondas.
 
 Em grandes intervalos com muitos momentos lógicos é observado uma discrepância menor das amplitudes das ondas. Nesses intervalos podem ser observados grandes sistemas de objetos. Quanto maiores os intervalos mais equilibrados eles estarão crescendo sentidoa mediana da população, probabilisticamente. Os sistemas de ondas podem ser complexos, tendo várias ondas aninhadas. Intervalos mais complexos e com essa característica podem representar, por exemplo, o centro do universo, então o centro de uma galáxia, estrelas, planetas etc.
 
 <p align="center">Amplitude de ondas em grandes intervalos ou comprimentos</p>
-<p align="center">
-<img width="30%" src="/Article/sections/images/consciousness_space_subconsciousness.jpg">
-</p>
+<p align="center"><img width="30%" src="/Article/sections/images/consciousness_space_subconsciousness.jpg"></p>
 <p align="center">Menor discrepância das ondas em grandes intervalos.</p>
 
 Em intervalos menores e com muitos momentos lógicos é observado uma discrepância maior das amplitudes das ondas. Nesses intervalos podem ser observados sistemas menores de objetos. Quanto menores os intervalos mais desequilibrados eles estarão crescendo sentido a mediana da população, probabilisticamente. Os sistemas de ondas mais complexos e com essa característica podem representar, por exemplo, o átomo que são muito pequenos, se apresentam em enormes quantidades e as partículas que orbitam seu núcleo (elétrons) ficam bem mais distantes dele.
 
 <p align="center">Amplitude de ondas em pequenos intervalos ou comprimentos</p>
-<p align="center">
-<img width="1%" src="/Article/sections/images/consciousness_space_subconsciousness_min.jpg">
-</p>
+<p align="center"><img width="1%" src="/Article/sections/images/consciousness_space_subconsciousness_min.jpg"></p>
 <p align="center">Alta discrepância das ondas em pequenos intervalos.</p>
 
 ## O que é o tempo?
@@ -153,9 +131,7 @@ Em intervalos menores e com muitos momentos lógicos é observado uma discrepân
 O tempo é a adição de novos momento lógicos entre momentos existentes à medida que prossegue a negação de si da lógica. Essas mudanças são acumulativas e a medida que aumentam o número desses momentos lógicos, menos relevante cada novo momento será dentro do intervalo consciente. Um em cem é mais relevante do que um em mil.
 
 <p align="center">Tempo</p>
-<p align="center">
-<img width="55%" src="/Article/sections/images/consciousness_time.jpg">
-</p>
+<p align="center"><img width="55%" src="/Article/sections/images/consciousness_time.jpg"></p>
 <p align="center">Progressão do tempo conforme os momentos lógicos avançam.</p>
 
 Cada população tem uma ordem diferente em sua sequência e é essa ordem que dá origem à grandeza que chamamos de tempo. É essa ordem do universo ou da consciência que vai dar a noção do que acontece antes ou depois, ou seja, o passado, o presente e as prospecções futuras.
@@ -173,100 +149,118 @@ A capacidade lógica de fazer prospecções probabilísticas, dentro das limita�
 Na Figura abaixo, é exibida a densidade de amostras de uma população, onde os pares que tendem a mesma distribuição probabilística são colocados lado a lodo e representados em forma de histograma. A formação desses pares é proveniente do entrelaçamento de ondas.
 
 <p align="center">Pares entrelaçados representados em três dimensões espaciais</p>
-<p align="center">
-<img width="600" height="280" src="/Article/sections/images/consciousness_space_waves.jpg">
-</p>
+<p align="center"><img width="600" height="280" src="/Article/sections/images/consciousness_space_waves.jpg"></p>
 <p align="center">Exemplo de ondas entrelaçadas, representadas em forma de histograma e obtidas pelo algoritmo <a href="https://github.com/RenStu/logic/blob/en-us/Algorithm/Logic_WavePattern.linq">Logic_WavePattern</a>.</p>
 
 Ao representar as grandezas espaciais do gráfico da Figura acima em um gráfico de distribuição 3D e distribuir seus pontos de extremidade (desprezando seus volumes e possíveis pontos internos), obtém-se algo parecido com uma espiral (como redemoinhos no ar ou na água) mesmo em volumes muito pequenos de dados (poucos momentos lógicos), conforme Figura abaixo. Os pontos tendem a se moverem em forma de espiral, aproximadamente.
 
 <p align="center">Gráfico de distribuição 3D</p>
-<p align="center">
-<img width="40%" src="/Article/sections/images/consciousness_space_3DScatter_200000-2.jpg">
-</p>
+<p align="center"><img width="40%" src="/Article/sections/images/consciousness_space_3DScatter_200000-2.jpg"></p>
 <p align="center">200.000 amostras ou momentos.</p>
 
-Outro fator importante é que a maior concentração de amostras tende a ser distribuída no pico do subintervalo, pois o topo dos subintervalos ou comprimentos de onda que formam o pico (colunas de histograma que formam o ponto mais alto da onda) estão mais próximos da mediana da população do que a base desses comprimentos de onda, como mostra o exemplo da figura abaixo na sua coluna central em azul. O pico é a parte mais facilmente visível de um intervalo, probabilisticamente.
+Obviamente a representação e os movimentos do intervalo ou seus subintervalos entrelaçados não podem ser representados fielmente em 1 ou 2 dimensões, pois o entrelaçamento é essência inerente (inseparável) das 3 dimensões.
 
-<p align="center">Amplitude de onda - pico</p>
-<p align="center">
-<img width="20%" src="/Article/sections/images/consciousness_space_amplitude_growth.jpg">
-</p>
-<p align="center">Tendência da maior concentração de amostras nos subintervalos de uma onda.</p>
+Cada nova amostra é tempo e também espaço (movimento ou mudança). Cada nova amostra adicionada dentro de um subintervalo fará este se movimentar conforme a distribuição de suas novas amostras. O intervalo que contém subintervalos pode se movimentar em qualquer direção, porém da mesma forma que as amostras em uma distribuição em um 1D (eixo Z da Figura abaixo) são concentras na parte de maior valor do plano, em 2D ou 3D é análogo e ocorre o mesmo, conforme exibido no subintervalo da Figura abaixo. Tanto o intervalo quanto os subintervalos tendem a ter suas maiores concentrações de amostras sentido a sua linha de referência interna e das linhas de referências dos seus intervalos superiores. Isso faz com que algo aproximado com a representação dos histogramas vá se formando naturalmente. O intervalo e seus subintervalos têm seus tamanhos em X, Y e Z proporcionais a seus tamanhos dentro da população em representação 1D (eixo Z da Figura abaixo), logo suas escalas internas estão relacionadas com a quantidade de amostras que eles têm.
 
-Probabilisticamente, a grande concentração das amostras de uma população está em seu pico, sentido a mediana da população. Assim, devido à altas concentrações probabilísticas de amostras em intervalos cada vez menores de uma onda, o pico irá ocupar um subintervalo proporcional cada vez menor dentro da população. Essa característica pode demostrar um universo aproximadamente planoem sua distribuição. Em subintervalos, esta característica pode criar os chamados buracos negros, que podem ser vistos com mais detalhe no [artigo completo](#%EF%B8%8F-download-do-artigo-completo).
+<p align="center">Distribuição espacial e movimento</p>
+<p align="center"><img width="50%" src="/Article/sections/images/consciousness_space_plan.jpg"></p>
+<p align="center">Distribuição espacial e movimento dos subintervalos e do intervalo populacional.</p>
 
-<p align="center">Universo plano</p>
-<p align="center">
-<img width="40%" src="/Article/sections/images/consciousness_flat_universe.jpg">
-</p>
-<p align="center">Concentração de 99% das amostras.</p>
+Todo subintervalo ao ser entrelaçado surge na base de seu intervalo superior. Logo, a adição de novas amostras nesse subintervalo que acabou de surgir o fará subir no seu intervalo superior e esse é o sentido de todos os entrelaçamentos que não possui subintervalos, subir à medida que somam amostras e velocidade sentido a linha de referência. Porém o ambiente pode não ser rarefeito, o que dificulta esse movimento (podendo o manter parado a depender do quão denso é esse ambiente). Assim, na Figura abaixo é exibido um intervalo que ainda não contém subintervalos, portanto, ele sobe e ganha velocidade a cada nova amostra que ele recebe e sua subida vai ser centralizada se suas amostras são distribuídas uniformemente ou com um pico centralizado, ou será inclinada para a direita ou esquerda à medida que a concentração maior de amostras estiver mais de um lado do que do outro (é mais comum que a concentração de amostras esteja sentido a mediana da população).
+
+<p align="center">Intervalo sem subintervalos</p>
+<p align="center"><img width="10%" src="/Article/sections/images/consciousness_space_plan_nosubinterval.jpg"></p>
+<p align="center">Movimentação de um intervalo sem subintervalos.</p>
+
+Os intervalos maiores são formados por meio da soma de intervalos menores já entrelaçados através do movimento e pela adição de novas amostras. Os intervalos que possuem subintervalos podem se mover em qualquer sentido, uma vez que, seus subintervalos podem receber saltos e por meio desses novos entrelaçamentos a posição desses subintervalos são redefinidas para a base de seu intervalo superior e assim esse intervalo pode ter uma destruição de subintervalos em qualquer sentido.
 
 ###### Força gravitacional
 
-Como as coordenadas X, Y e Z dos pares emaranhados de uma população tendem a aumentar, a disposição dessas em um sistema tridimensional de coordenadas vai seguir uma referência diagonal entre esses três eixos, conforme Figura abaixo. Os pontos X1 e X2 foram espelhados nas coordenadas X e Z para facilitar a observação de que ao elevar o eixo Z também se eleva o eixo X ou Y, independente de seus pontos probabilísticos mínimos. As linhas tracejadas mostram os caminhos mais prováveis para os intervalos A e B. Dessa forma, quando uma parte do intervalo está em seu ponto médio máximo (eixos X e/ou Y) a tendência probabilística é que ele receba menos amostras do que a parte do intervalo que stá em seu ponto médio mínimo. Esse efeito espiral é mais notável quanto maior for um intervalo e sua quantidade de amostras, pois mais prováveis e estáveis serão esses caminhos.
-
-<p align="center">Sistema tridimensional de coordenadas</p>
-<p align="center">
-<img width="45%" src="/Article/sections/images/consciousness_space_spiral_reference_line.jpg">
-</p>
-<p align="center">Linha de referência probabilística para distribuição de uma população em um plano tridimensional.</p>
-
-Cada intervalo ou subintervalo (comprimento de ondas) tem sua própria linha de referência. Assim como dentro de um metro existem os centímetros, milímetros etc., dentro de um intervalo e subintervalos podem existir inúmeros outros, conforme exibido abaixo.
-
-<p align="center">Intervalos e linhas de referências</p>
-<p align="center">
-<img width="30%" src="/Article/sections/images/consciousness_space_spiral_underlines.jpg">
-</p>
-<p align="center">Espirais em diferentes intervalos e suas linhas de referências.</p>
-
 A força gravitacional não é uma força propriamente e sim um aspecto da probabilidade de distribuição de novas amostras sentido a mediana da população, conforme teorema central do limite. E sentido probabilístico faz com que as ondas tenham um caminho provável a seguir dentro da população, ou seja, o pico de amostras da população ou o pico da maior onda da população. Da mesma maneira, fazem também com que as amostras dentro de um intervalo tenham um caminho provável a seguir, ou seja, o pico de amostras do intervalo ou o pico da onda. Estes picos de amostras costumam ser a parte mais facilmente observáveis no intervalo de amostras desde ocupem uma área não tão pequena, conforme Figura abaixo.
 
+Na Figura abaixo também pode ser visto que a parte mais facilmente observável está levemente a direita no pico da onda. Essa onda tende a caminhar para cima e para a direita, em uma diagonal sentido ao pico do seu intervalo superior. Também é possível notar nessa Figura que ela tem uma densidade um pouco maior das amostras à direita e estas amostras estão mais uniformemente distribuídas. Essa densidade e uniformidade indicam o caminho probabilístico que esse intervalo está percorrendo e sua velocidade nesse sentido (quão maior for essa densidade e uniformidade).
+
 <p align="center">Força gravitacional</p>
-<p align="center">
-<img width="60%" src="/Article/sections/images/consciousness_gravitational_force.jpg">
-</p>
+<p align="center"><img width="50%" src="/Article/sections/images/consciousness_gravitational_force.jpg"></p>
 <p align="center">Aspecto gravitacional - o sentido probabilístico da distribuição de novas amostras dentro de um intervalo.</p>
 
 Também é possível notar na Figura acima que a área de um intervalo cresce de forma quadrática, uma vez que o salto provocado pelo entrelaçamento de ondas e a própria distribuição probabilística das amostras tendem a manter um crescimento equivalente nos pares que formam essa onda. Esse aspecto configura a lei do inverso do quadrado, onde, no caso da gravidade, quando mais perto os objetos, maiores serão as chances probabilísticas das novas amostras do objeto menor ir em direção ao objeto maior (o pico da onda), que por estar dentro de uma área quadrada menor e por consequência de menor possibilidades de posicionamento das amostras, as chances desses objetos se aproximarem com uma quantidade bem menor de momentos lógicos aumenta muito. Assim, quanto mais longe os objetos, maior a área, maior as possibilidades de posicionamento e mais momentos lógicos são precisos para a aproximação, caracterizando assim uma atração menor. A probabilidade também pode afastar objetos mais rarefeitos que devem estar mais afastados da parte mais facilmente observável e densa de amostras, como no caso do gás hélio, por exemplo. A distribuição de novas amostras nos intervalos rarefeito são mais lentas (caso contrário não seriam rarefeito) do que nas partículas mais densas que tomam a frete dessas partículas menos densas afastando-as do pico da onda.
-
-A Figura abaixo mostra em seu primeiro exemplo que a onda 1, podendo ser um satélite, poderia se aproximar rapidamente da onda 0 à medida que novas amostras vão sendo distribuídas dentro de todo o intervalo. O segundo exemplo mostra que a impulsão que o satélite recebe ao ser colocado em órbita faz com que sua onda tenha uma distribuição probabilística mais uniforme (esse crescimento uniforme é facilitado pela baixa densidade ao redor do pico probabilístico – 1 amostra em 100 é mais relevante do que 1 amostra em 1000), onde a parte da onda em azul está mais próxima da mediana da população e tem um crescimento ou deslocamento equivalente à sua onda inferior, o que a mantém aproximadamente constante. O terceiro exemplo é uma melhor visualização do segundo exemplo, para facilitar o entendimento, onde a onda 1 é definida pela espiral em torno do objeto circular que representa o pico probabilístico. Talvez a distribuição das amostras no pico, que é maior e a onda mais uniforme causada pelo impulso (velocidade), possa facilitar a compreensão do avanço dos relógios atómicos nos satélites. Com este exemplo também fica mais fácil observar que a velocidade da luz não é constante, o que ocorre é que a onda de luz é tão menor que a parte da onda que fornece a velocidade é rapidamente desfeita, tornando-a praticamente constante.
-
-<p align="center">Força gravitacional - órbita</p>
-<p align="center">
-<img width="60%" src="/Article/sections/images/consciousness_gravitational_orbit.jpg">
-</p>
-<p align="center">Aspectos gravitacionais de um sistema – órbita.</p>
 
 ###### Força eletromagnética
 
 A força eletromagnética não é uma força propriamente e sim um aspecto do entrelaçamento de ondas que se intensifica em intervalos ou comprimentos de ondas com baixa entropia e com a aproximação espacial (redução de diferenças nos eixos X, Y e Z) desses intervalos.
 
-Quando os intervalos têm baixa entropia a aproximação faz com que os pares de ondas de um intervalo se pareça muito com os pares de ondas do outro intervalo, o que torna muito desses pares viáveis para que o entrelaçamento de ondas encontre pares mais ideais no outro intervalo e vice-versa. Desta forma, ocorre uma reordenação entre os intervalos por meio do entrelaçamento de ondas e essa reordenação torna esses intervalos mais equalizado (baixa entropia).
+O eletromagnetismo está relacionado à intervalos semelhantes ao lado da onda mais uniforme encontrada exemplo da Figura acima (direito), porém com baixa entropia, ou seja, a mesma estrutura que facilita o movimento dos objetos somado a baixa entropia, a qual facilita os saltos. Quando os intervalos têm baixa entropia a aproximação desses, seja naturalmente pela estrutura que facilita o movimento ou pela distribuição de novas amostras capaz de criar essa estrutura como a eletrificação, faz com que os pares de ondas de um intervalo se pareça muito com os pares de ondas do outro intervalo, o que torna muito desses pares viáveis para que o entrelaçamento de ondas encontre pares mais ideais no outro intervalo e vice-versa. Desta forma, ocorre uma reordenação entre os intervalos por meio do entrelaçamento de ondas e essa reordenação torna esses intervalos mais equalizado (baixa entropia).
 
 As linhas azuis da Figura abaixo mostram onde é mais frequente a troca dos pares de ondas pelo entrelaçamento de ondas, ou seja, onde se tem a maior probabilidade das ondas serem parecidas. Por isso os imãs tentam se virar para se conectar quando estão face a face com o mesmo polo. A linha cinza mostra as conexões que ocorrem em número bem menor.
 
 <p align="center">Força eletromagnética</p>
-<p align="center">
-<img width="25%" src="/Article/sections/images/consciousness_electromaagnetic_force.jpg">
-</p>
+<p align="center"><img width="25%" src="/Article/sections/images/consciousness_electromaagnetic_force.jpg"></p>
 <p align="center">Aumento das possibilidades de entrelaçamento de ondas devida a equalização probabilística em objetos próximos e de baixa entropia.</p>
 
-###### Antimatéria
+## Espiral e órbita
+
+Como as coordenadas X, Y e Z dos pares emaranhados de uma população tendem a aumentar, a disposição dessas em um sistema tridimensional de coordenadas vai seguir uma referência diagonal entre esses três eixos, conforme Figura abaixo. Os pontos X1 e X2 foram espelhados nas coordenadas X e Y para facilitar a observação de que mesmo na parte inferior da espiral o intervalo continua a somar amostras, ainda que em menor quantidade do que quanto subindo para a parte superior da espiral. A linhas tracejadas mostram os caminhos mais prováveis para os intervalos A e B. Dessa forma, quando uma parte do intervalo está em seu ponto médio máximo (eixos X e/ou Y) a tendência probabilística é que ele receba menos amostras do que a parte do intervalo que está em seu ponto médio mínimo. Esse efeito espiral é mais notável quanto maior for um intervalo e sua quantidade de amostras, pois mais prováveis e estáveis serão esses caminhos.
+
+O movimento contínuo num ambiente rarefeito também ajuda na formação e manutenção das espirais. À medida que as amostras são adicionadas aos subintervalos, as suas velocidades tendem a aumentam em direção à linha de referência, e como esta adição não é uniforme (variando entre picos e vales) e o movimento é aproximadamente contínuo, os subintervalos podem derivar ou deslizar de um lado da linha de referência para o outro.
+
+<p align="center">Sistema tridimensional de coordenadas</p>
+<p align="center"><img width="45%" src="/Article/sections/images/consciousness_space_spiral_reference_line.jpg"></p>
+<p align="center">Linha de referência probabilística para distribuição de uma população em um plano tridimensional.</p>
+
+Cada intervalo ou subintervalo (comprimento de ondas) tem sua própria linha de referência. Assim como dentro de um metro existem os centímetros, milímetros etc., dentro de um intervalo e subintervalos podem existir inúmeros outros, conforme exibido abaixo.
+
+<p align="center">Intervalos e linhas de referências</p>
+<p align="center"><img width="30%" src="/Article/sections/images/consciousness_space_spiral_underlines.jpg"></p>
+<p align="center">Espirais em diferentes intervalos e suas linhas de referências.</p>
+
+###### Órbitas
+
+Órbita pode ser definida nesse estudo como o conceito das espirais somada a orientação de um pico probabilístico (gravidade) ao invés da linha de referência das espirais, apenas.
+
+Os sistemas que orbitam como descrito anteriormente (em espiral - orientada pela linha de referência) são sistemas ou intervalos em que seu pico está subdividido em subintervalos e não formam um centro de gravidade, ou seja, todos os subintervalos do pico não estão concentrados em um ponto do sistema, orbitando dessa forma a linha de referência do intervalo. Provavelmente os aglomerados de galáxia, e os superaglomerados sejam exemplos dessa orbita. A orbita espiral (orientada pela linha de referência) não está restrita a sistemas grandes, essa orbita é uma característica que pode acontecer em qualquer tamanho de intervalo.
+
+Outro tipo de órbita é definido quando os subintervalos que orbitam o pico da onda (que representa aproximadamente 99,9% das amostras do intervalo) diminuem sua velocidade de orbita à medida que se afastam do pico. Na Figura abaixo as colunas do histograma em azul representam o pico da onda. Essa diminuição de velocidade ocorre gradualmente a medida que esses intervalos em cinza se afastam do pico da onda, recebendo assim uma quantidade menor de amostras, diminuindo sua aceleração. O sistema solar é possivelmente um exemplo desse tipo de órbita. As órbitas atômicas também podem se assemelhar a esse tipo de órbita devido as diferenças de energias entre as camadas estruturadas pelos saltos.
+
+<p align="center">Órbitas dos subintervalos fora do pico da onda</p>
+<p align="center"><img width="40%" src="/Article/sections/images/consciousness_elliptical_orbit_system.jpg"></p>
+<p align="center">Os subintervalos diminuem de velocidade conforme se afastam do pico da onda.</p>
+
+Ainda outro tipo de órbita é definido quando os subintervalos que orbitam o pico da onda mantêm uma velocidade média constante, independente da distância do pico. Isso ocorre porque esses subintervalos também fazem parte do pico da onda em azul, conforme Figura abaixo. Assim, por estes subintervalos permanecerem em órbita dentro do subintervalo de 99,9% da onda, suas velocidades não diminuem. Esses 99,9% da onda é parte mais facilmente visível, portanto, a parte observada das galáxias, provavelmente. Talvez essa característica também seja responsável pelos anéis dos planetas.
+
+<p align="center">Órbitas dos subintervalos dentro do pico da onda</p>
+<p align="center"><img width="40%" src="/Article/sections/images/consciousness_circular_orbit_system.jpg"></p>
+<p align="center">Os subintervalos mantêm a velocidade conforme se afastam do pico da onda.</p>
+	
+###### Matéria escura e energia escura
+
+Os intervalos naturalmente se afastam com velocidades crescentes por receberem mais amostras em direção à linha de referência ou pico da onda de seus intervalos superiores e por se moverem em um ambiente rarefeito.
+
+As espirais podem ocorrer sem a necessidade de um pico de onda concentrado, mas quando há tal concentração no pico da onda, as órbitas podem ocorrer dentro ou fora dos 99,9% das amostras do pico, resultando em órbitas que mantêm suas velocidades médias constantes quando longe do pico (dentro dos 99,9%) ou órbitas que diminuem suas velocidades quando estão longe do pico (fora dos 99,9%).
+
+Portanto, matéria escura e energia escura não são matéria nem energia, mas aspectos probabilísticos da distribuição de amostras em uma população que se assemelha à distribuição normal.
+
+## Antimatéria
 
 Quando um intervalo tende a concentrar suas amostras sentido da mediana, o que é o sentido provável conforme teorema central do limite, dá-se o nome de matéria. A antimatéria é o contrário, quando um intervalo tende a concentrar suas amostras no sentido oposto à mediana.
 
 O merge ou soma de intervalos opostos os tornaria um intervalo simétrico, ou seja, não estaria em nenhum dos sentidos. Na Figura abaixo é exibido uma população com suas concentrações de amostras sentido à mediana e outra com suas concentrações sentido às bordas do intervalo.
 
 <p align="center">Populações com suas concentrações de amostras opostas</p>
-<p align="center">
-<img width="40%" src="/Article/sections/images/consciousness_concentration_of_opposite_samples_within_range.jpg">
-</p>
+<p align="center"><img width="40%" src="/Article/sections/images/consciousness_concentration_of_opposite_samples_within_range.jpg"></p>
 <p align="center">Populações distribuídas em sentidos contrários.</p>
+
+## Buraco negro
+
+A área de um intervalo cresce à medida que novas amostras são adicionadas na população e com a soma de outros intervalos já entrelaçados, como mostra o subintervalo superior direito na Figura abaixo. Contudo, os intervalos que recebem uma grande quantidade de amostras dentro da população tendem a formar cada vez mais subintervalos a diferentes níveis, que contraem a área ocupada destes intervalos (devido ao entrelaçamento de ondas do subintervalos menores sustentar essas áreas aproximadamente quadráticas), como mostra os subintervalos roxos e azuis na Figura 38. Assim, essa relação do tamanho do intervalo com sua quantidade de amostras e os seus subintervalos é o aspecto que pode ajudar a descrever os chamados buracos negros, onde o pico da onda irá ocupar um subintervalo proporcional cada vez menor dentro do intervalo da onda, mesmo com uma concentração de amostras crescentes. Esses picos são frequentemente encontrados do meio para frente de um intervalo ou sistema (o núcleo ou pico do sistema).
+
+<p align="center">Contração do intervalo</p>
+<p align="center"><img width="30%" src="/Article/sections/images/consciousness_interval_contraction.jpg"></p>
+<p align="center">Relação do tamanho do intervalo e sua possível contração à medida que surgem novos subintervalos.</p>
 
 ## 
 
-***Mais detalhes sobre cada secção e outras secções tais como buraco negro, forças nucleares, energia escura, matéria escura, observador e vida, entre outros, podem ser encontrados no [artigo completo](#%EF%B8%8F-download-do-artigo-completo).***
+***Mais detalhes sobre cada secção e outras secções tais como forças nucleares, observador e vida, entre outros, podem ser encontrados no [artigo completo](#%EF%B8%8F-download-do-artigo-completo).***
 
 <br/> 
 
