@@ -23,9 +23,7 @@ In this duality, existence is based on logic, which [IS NOT - NEGATES ITSELF], w
 ## [Axioms](#axioms-of-primordial-logic) of primordial logic
 
 <p align="center">Primordial Logic analogy</p>
-<p align="center">
-<img src="/Article/sections/images/primordial_logic_representation.jpg">
-</p>
+<p align="center"><img src="/Article/sections/images/primordial_logic_representation.jpg"></p>
 <p align="center">Line used to represent and validate the concept of primordial logic.</p>
 
 In Figure above, the straight-line analogy is used to facilitate reasoning. Based on this Figure, the following observations ***(axioms)*** can be extracted in relation to the points **0**,  **1** and the **interval** between them:
@@ -41,17 +39,13 @@ In Figure above, the straight-line analogy is used to facilitate reasoning. Base
 Primordial logic (negation of self) creates infinite logical expansions. A logical expansion is analogous to a universe. The first logical moment is the beginning of one of these expansions, but there are infinite possibilities of negation of the first logical moment, which reveals infinite logical expansions.
 
 <p align="center">First logical moment</p>
-<p align="center">
-<img src="/Article/sections/images/first_logical_moment.jpg">
-</p>
+<p align="center"><img src="/Article/sections/images/first_logical_moment.jpg"></p>
 <p align="center">Fractionated line in two intervals representing the first logical moment.</p>
 
 In Figure above the joining of the dash to the straight line is the representation of a logical negation (logical moment). From the negation of the logic in [be] arise these two logical subintervals or two sublogics (intervals of the straight line). In this first logical moment, the segment in blue represents the negation of the logic in [be] the illogical whole (the straight line).
 
 <p align="center">Initial logical moments</p>
-<p align="center">
-<img width="55%" src="/Article/sections/images/third_logical_moment.jpg">
-</p>
+<p align="center"><img width="55%" src="/Article/sections/images/third_logical_moment.jpg"></p>
 <p align="center">Example of the first three moments of an expansion.</p>
 
 - **First logical moment** The negation of the primordial logic to itself, subdivides it into two units, two sublogics. Although these parts have different proportions, they express the same amounts of points or possibilities of change, since they are representations of the primordial logic, which *ad infinitum*. The fractional part in blue represents the proportion of the logical negation to its unity.
@@ -63,33 +57,25 @@ Based on the [axioms of primordial logic](#axioms-of-primordial-logic), the foll
 Thus, in Figure below, the negation of the first logical moment negates [being], while the subnegations of the other logical moments are subparts that subnegate [being], so these subparts only negate [being] when added together or unified according to the first logical moment.
 
 <p align="center">Subdivided logical moments</p>
-<p align="center">
-<img width="55%" src="/Article/sections/images/second_logical_moment.jpg">
-</p>
+<p align="center"><img width="55%" src="/Article/sections/images/second_logical_moment.jpg"></p>
 <p align="center">Example of the first two moments of an expansion.</p>
 
 In Figure below the representation of the first and second logical moments from Figure above can be seen as logical units.
 
 <p align="center">Unified logical moments</p>
-<p align="center">
-<img width="55%" src="/Article/sections/images/logical_units.jpg">
-</p>
+<p align="center"><img width="55%" src="/Article/sections/images/logical_units.jpg"></p>
 <p align="center">Example of the first two unified moments of an expansion.</p>
 
 The unity present in the negation (first logical moment) and in the logical subnegations (other logical moments) is the characteristic that corresponds to the central axis of the central limit theorem. This theorem states that the sample distribution of a population approaches a normal distribution as the sample sizes increase, regardless of the shape of the population distribution. This is especially true for sample sizes greater than 30. A simple test that demonstrates this fact is the rolling of unbiased dice. The higher the dice roll number, the more likely the graph will look like the normal distribution graph [(GLEN, 2019)](https://www.statisticshowto.com/probability-and-statistics/normal-distributions/central-limit-theorem-definition-examples/).
 
 <p align="center">Probabilistic synchronism of the opposite samples with respect to the median</p>
-<p align="center">
-<img width="30%" src="/Article/sections/images/trend_chart_of_normal_distribution.jpg">
-</p>
+<p align="center"><img width="30%" src="/Article/sections/images/trend_chart_of_normal_distribution.jpg"></p>
 <p align="center">Example of a distribution that approximates the normal distribution.</p>
 
 The blue arrows in the graph below (range 99.99% of the total samples close to the median), will be getting closer and closer to the center of the graph proportionally. Although the its amount increases, the proportion it has in (total samples) decreases. The purple arrows in the graph represent the (total samples). This graph represents 20 runs (100 samples to 2000 samples), with an increment of 100 samples in each run. That is, this theorem reflects a concentration of samples towards the median of the population, ***a probabilistic path***.
 
 <p align="center">Comparison of total samples with a range 99.99% of the total samples close to the median</p>
-<p align="center">
-<img width="35%" src="/Article/sections/images/total_comparison_chart_with_99_range.jpg">
-</p>
+<p align="center"><img width="35%" src="/Article/sections/images/total_comparison_chart_with_99_range.jpg"></p>
 <p align="center">The purple arrows represent the (total samples) and the blue arrows the (range 99.99% of the total samples close to the median).</p>
 
 This work will treat the words logical moment as the unified logical moment from now on.
@@ -107,9 +93,7 @@ So this simultaneous sequence is an infinite and generalized recursion in the ab
 Probabilistically, the distribution of new samples from a population tends to concentrate more samples toward the median of the population as the frequency of samples increases in this direction. However, the distribution of these samples with uniform growth frequencies is infinitesimal compared to the random possibilities of this growth. Thus, the tendency of these growth frequencies toward the median, together with the very low (infinitesimal) probability of this growth being uniform, leads to frequencies in the waveform.
 
 <p align="center">Waveform</p>
-<p align="center">
-<img width="50%" src="/Article/sections/images/consciousness_waves.jpg">
-</p>
+<p align="center"><img width="50%" src="/Article/sections/images/consciousness_waves.jpg"></p>
 <p align="center">Wave pattern inferred by the trend of this distribution with higher frequencies towards the population median and very low probability of uniform growth of these frequencies.</p>
 
 The most similar samples in terms of frequency and distribution are the samples that are part of the same wave. They are non-overlapping, opposite frequencies that complete each other.
@@ -121,29 +105,25 @@ Intervals with similar temporal frequencies and spatial distributions are interv
 These entanglements form smaller waves, similar to the largest wave in the entire interval, usually entangled by the population median.
 
 <p align="center">Smaller waves</p>
-<p align="center">
-<img width="50%" src="/Article/sections/images/consciousness_subconscious.jpg">
-</p>
+<p align="center"><img width="50%" src="/Article/sections/images/consciousness_subconscious.jpg"></p>
 <p align="center">The wave pattern forms smaller waves similar to the pattern created by largest wave in the entire interval.</p>
 
 The jump is a reordering done by wave entanglement, as the samples of the entangled pairs are no longer equivalent with the addition of new samples from one side of the pair. The jump occurs on one side of a pair of waves and is a reordering, that is, both the part of the interval that has just received the new sample must better match the intended interval for the jump, as well as the reverse.
+
+The smaller intervals get entangled first, and these reorders caused by them allow the union of larger intervals. The meeting of two already entangled intervals does not entail a new entanglement, only the sum of these waves, because they are already entangled.
 
 The length and amplitude of waves establish a quantity-per-interval or unit relationship. These units are established by wave entanglement.
 
 In large intervals with many logical moments a smaller discrepancy of wave amplitudes is observed. In such intervals large systems of objects can be observed. The larger the intervals, the more balanced they grow towards the population median (probabilistically). Wave systems can be complex, having several nested waves. More complex intervals with this feature can represent, for example, the universe, then galaxies, stars, planets, etc.
 
 <p align="center">Wave amplitude at large intervals or lengths</p>
-<p align="center">
-<img width="30%" src="/Article/sections/images/consciousness_space_subconsciousness.jpg">
-</p>
+<p align="center"><img width="30%" src="/Article/sections/images/consciousness_space_subconsciousness.jpg"></p>
 <p align="center">Smaller wave discrepancy at large intervals.</p>
 
 In smaller intervals and with many logical moments a greater discrepancy in wave amplitudes is observed. In these intervals smaller object systems can be observed. The smaller the intervals are, the more unbalanced they will grow towards the population median (probabilistically). More complex wave systems with this feature can represent, for example, the atom, which is very small, present in huge quantities, and the particles orbiting its nucleus (electrons) are much more distant from it.
 
 <p align="center">Wave amplitude at small intervals or lengths</p>
-<p align="center">
-<img width="1%" src="/Article/sections/images/consciousness_space_subconsciousness_min.jpg">
-</p>
+<p align="center"><img width="1%" src="/Article/sections/images/consciousness_space_subconsciousness_min.jpg"></p>
 <p align="center">High wave discrepancy at small intervals.</p>
 
 ## What is time?
@@ -151,9 +131,7 @@ In smaller intervals and with many logical moments a greater discrepancy in wave
 Time is the addition of new logical moments between existing moments as the self-negation of primordial logic proceeds. The changes are cumulative and as the number of logical moments increases, the less relevant each new moment within the conscious interval will be. One in a hundred is more relevant than one in a thousand.
 
 <p align="center">Time</p>
-<p align="center">
-<img width="55%" src="/Article/sections/images/consciousness_time.jpg">
-</p>
+<p align="center"><img width="55%" src="/Article/sections/images/consciousness_time.jpg"></p>
 <p align="center">Progression of time as logical moments advance.</p>
 
 Each population has a different order in its sequence and it is this order that gives rise to the logical quantity called time. It is this order of the universe that will give the notion of what happens before or after, that is, the past, the present and the probabilistic future prospections.
@@ -171,101 +149,119 @@ The logical ability to make probabilistic prospections, within the logical limit
 In Figure below, the sample density of a population is shown, where pairs tending to the same probabilistic distribution are placed side by side and represented in histogram form. The formation of these pairs comes from wave entanglement.
 
 <p align="center">Entangled pairs represented in three spatial dimensions</p>
-<p align="center">
-<img width="600" height="280" src="/Article/sections/images/consciousness_space_waves.jpg">
-</p>
+<p align="center"><img width="600" height="280" src="/Article/sections/images/consciousness_space_waves.jpg"></p>
 <p align="center">Example of entangled waves, represented in histogram form and obtained by the <a href="https://github.com/RenStu/logic/blob/en-us/Algorithm/Logic_WavePattern.linq">Logic_WavePattern</a> algorithm.</p>
 
 By plotting the spatial dimensions of the graph of Figure above on a 3D distribution graph and distributing their endpoints (neglecting their volumes and possible internal points), something like a spiral is obtained (like eddies in water or air), even on very small data volumes (few logical moments), as in Figure below. The points tend to move in a spiral shape approximately.
 
 <p align="center">3D scatter plots</p>
-<p align="center">
-<img width="40%" src="/Article/sections/images/consciousness_space_3DScatter_200000-2.jpg">
-</p>
+<p align="center"><img width="40%" src="/Article/sections/images/consciousness_space_3DScatter_200000-2.jpg"></p>
 <p align="center">200,000 samples or moments.</p>
 
-Another important factor is the higher concentration of samples tend to be distributed at the peak of the subinterval, because the top of the subintervals or wavelengths that form the peak (histogram columns that form the highest point of the wave) are closer to the population median than the bottom of those wavelengths, as shown in the example in Figure below in its center column in blue. The peak is the most easily visible part of an interval, probabilistically.
+Obviously the representation and motions of the interval or its entangled subintervals cannot be faithfully represented in 1 or 2 dimensions, as entanglement is inherent (inseparable) essence of 3 dimensions.
 
-<p align="center">Wave amplitude - peak</p>
-<p align="center">
-<img width="20%" src="/Article/sections/images/consciousness_space_amplitude_growth.jpg">
-</p>
-<p align="center">Trend of the highest concentration of samples in the subintervals of a wave.</p>
+Each new sample is time and also space (movement or change). Each new sample added within a subinterval will cause it to move according to the distribution of its new samples. The interval that contains subintervals can move in any direction, but in the same way that the samples in a distribution in 1D (Z axis of Figure below) are concentrated in the highest value part of the plane, in 2D or 3D is analogous and the same occurs, as shown in the Figure subrange below. Both the interval and the subintervals tend to have their highest sample concentrations towards their inner reference line and the reference lines of their upper intervals. This makes something approximating a histogram representation come naturally. The interval and its subintervals have their sizes in X, Y and Z proportional to their sizes within the population in 1D representation (Z-axis of Figure below), so their internal scales are related to the number of samples that they have.
 
-Probabilistically, the high concentration of samples in a population is at its peak, towards the median of the population. Thus, due to the probabilistically high concentrations of samples in smaller and smaller intervals of a wave, the peak will occupy a smaller and smaller proportional subinterval within the population. This characteristic can demonstrate an approximately flat universe in its distribution. In subintervals this feature can create so-called black holes, which can be seen in more detail in the [full paper](#%EF%B8%8F-download-the-full-paper).
+<p align="center">Spatial distribution and movement</p>
+<p align="center"><img width="50%" src="/Article/sections/images/consciousness_space_plan.jpg"></p>
+<p align="center">Spatial distribution and movement of subintervals and population interval.</p>
 
-<p align="center">Flat universe</p>
-<p align="center">
-<img width="40%" src="/Article/sections/images/consciousness_flat_universe.jpg">
-</p>
-<p align="center">Concentration of 99% of samples.</p>
+Every subinterval when it is entangled arises at the bottom of its upper interval. Then adding new samples into this subinterval that has just emerged will cause it to move up into its upper interval, and this is the direction of all entanglements that do not have subintervals, to move up as they add samples and speed toward the reference line. But the environment may not be rarefied, which makes this movement difficult (and may keep it stationary depending on how dense that environment is). Thus, in Figure below an interval that does not yet contain subintervals is displayed, so it moves up and gains speed with each new sample it receives, and its rise will either be centralized if its samples are evenly distributed or with a centralized peak, or it will be skewed to the right or left as the highest concentration of samples is more on one side than the other (it is more common for the concentration of samples to be toward the population median).
+
+<p align="center">Interval without subintervals</p>
+<p align="center"><img width="10%" src="/Article/sections/images/consciousness_space_plan_nosubinterval.jpg"></p>
+<p align="center">Moving an interval without subintervals.</p>
+
+Larger intervals are formed by adding smaller intervals already entangled through movement and by adding new samples. Intervals that have subintervals can move in any direction, since their subintervals can receive jumps and through these new entanglements the position of these subintervals are reset to the base of their upper interval and thus this interval can have a destruction of subintervals in any direction.
 
 ###### Gravitational force
 
-As the X, Y, and Z coordinates of the entangled pairs of a population tend to increase, their arrangement in a three-dimensional coordinate system will follow a diagonal reference between these three axes, as shown in Figure below. The points X1 and X2 were mirrored in the X and Z coordinates to make it easier to observe that raising the Z axis also raises the X or Y axis, regardless of their minimum probabilistic points. The dashed lines show the most probable paths to the A and B intervals. Thus, when a part of the interval is at its maximum midpoint (X and/or Y axes) the probabilistic tendency is that it receives fewer samples than the part of the interval that is at its minimum midpoint. This spiral effect is more noticeable the larger an interval and its quantity of samples, as the more probable and stable these paths will be.
-
-<p align="center">Three-dimensional coordinate system</p>
-<p align="center">
-<img width="45%" src="/Article/sections/images/consciousness_space_spiral_reference_line.jpg">
-</p>
-<p align="center">Probabilistic reference line for distribution of a population in a three-dimensional plane.</p>
-
-Each interval or subinterval (wavelength) has its own reference line. Just as within a meter there are centimeters, millimeters, etc., within an interval and subinterval there can be numerous other subintervals, as shown in Figure below.
-
-<p align="center">Intervals and reference lines</p>
-<p align="center">
-<img width="30%" src="/Article/sections/images/consciousness_space_spiral_underlines.jpg">
-</p>
-<p align="center">Spirals at different intervals and their reference lines.</p>
-
 The gravitational force is not a force itself, but an aspect of the probability distribution of new samples towards the median of the population, according to the central limit theorem. This probabilistic direction causes waves to have a probable path to follow within the population, that is, the peak of the samples in the population or the peak of the largest wave in the population. Similarly, they also make the samples within a subinterval have a probable path to follow, that is, the peak of the samples in the subinterval (peak of this wave). These sample peaks are usually the most easily observable part of a wave, since they occupy a not-so-small area, as shown in Figure below.
 
+In Figure below it can also be seen that the most easily observable part is slightly to the right at the peak of the wave. This wave tends to move up and to the right, in a diagonal direction to the peak of its upper interval. It can also be seen in this figure that it has a slightly higher density of samples on the right, and these samples are more evenly distributed. This density and uniformity indicates the probabilistic path this interval is traveling and its speed in that direction (the higher this density and uniformity).
+
 <p align="center">Gravitational force</p>
-<p align="center">
-<img width="60%" src="/Article/sections/images/consciousness_gravitational_force.jpg">
-</p>
+<p align="center"><img width="50%" src="/Article/sections/images/consciousness_gravitational_force.jpg"></p>
 <p align="center">Gravitational aspect - the probabilistic direction of the distribution of new samples within an interval.</p>
 
 It is also possible to notice in the image above that the area of an interval grows quadratically, since the jump caused by the entanglement of the waves and the probability distribution of the samples tends to maintain an equivalent growth in the pairs that form a wave. This aspect configures the inverse square law, where, in the case of gravity, the closer the objects, the greater the probabilistic chances of new samples of the smaller object heading towards the larger object (since the larger object tends to be the peak of wave - the probabilistic direction within the wave). Thus, for being within a smaller square area and, consequently, having less possibility of movement, it ends up increasing the chances of these objects approaching with a much smaller amount of logical moments. On the other hand, the more distant the objects, the larger the area, the greater the positioning possibilities and the more logical moments are needed for the approach, featuring less attraction. Probability can also drive away more rarefied objects that should be further away from the denser and more easily observable part of a wave, as in the case of helium gas, for example. The distribution of new samples in the rarefied intervals is slower than in the denser intervals (otherwise they would not be rarefied), so these dense particles receive more samples in a shorter amount of time, occupying the front of the less dense particles.
-
-Figure below shows in its first example that wave 1, which could be a satellite, can rapidly approach wave 0 as new samples are distributed within the entire interval. The second example shows that the impulse the satellite receives when placed in orbit causes its wave to have a more uniform probability distribution (this uniform growth is facilitated by the low surrounding density, further away from the probabilistic peak - 1 sample in 100 is more relevant than 1 sample in 1000), where the part of the wave in blue is closer to the population median and has a growth or displacement equivalent to its lower wave, which keeps it constant. The third example is a better look at the second example, for ease of understanding, where wave 1 is defined by the spiral around the circular object representing the probabilistic peak. Perhaps the distribution of the samples at the peak, which is larger and the wave more uniform caused by the impulse (speed), can facilitate the understanding of the advance of atomic clocks on satellites. With this example it is also easier to see that the speed of light is not constant, what happens is that the light wave is so much smaller that the part of the wave that provides the speed is quickly undone, making it practically constant.
-
-<p align="center">Gravitational force - orbit</p>
-<p align="center">
-<img width="60%" src="/Article/sections/images/consciousness_gravitational_orbit.jpg">
-</p>
-<p align="center">Gravitational aspects of a system - orbit.</p>
 
 ###### Electromagnetic force
 
 The electromagnetic force is not a force itself, but an aspect of the entanglement of waves that intensifies at intervals or wavelengths with low entropy and with the spatial approximation (reduction of differences in the X, Y and Z axes) of these intervals.
 
-When intervals have low entropy, their approximation makes the wave pairs of one interval very similar to the wave pairs of the other interval, which makes many of these pairs viable for wave entanglement to finding more ideal pairs in the other interval and vice versa. In this way, a rearrangement occurs between the intervals through wave entanglement, and this rearrangement makes these intervals more equalized (low entropy).
+Electromagnetism is related to intervals similar to the more uniform wave side found in Figure above (right), but with low entropy, that is, the same structure that facilitates the movement of objects added to the low entropy, which facilitates jumps. When intervals have low entropy, their approximation, either naturally through the structure that facilitates movement or through the distribution of new samples capable of creating this structure, such as electrification, makes the wave pairs of one interval very similar to the wave pairs of the other interval, which makes many of these pairs viable for wave entanglement to finding more ideal pairs in the other interval and vice versa. In this way, a rearrangement occurs between the intervals through wave entanglement, and this rearrangement makes these intervals more equalized (low entropy).
 
 The blue lines in the figure below show where the exchange of wave pairs by wave entanglement is most frequent, that is, where the waves are most probable to be similar. This is why magnets try to rotate to connect when they are face to face with the same pole. The gray line shows connections that occur in a much smaller number.
 
 <p align="center">Electromagnetic force</p>
-<p align="center">
-<img width="25%" src="/Article/sections/images/consciousness_electromaagnetic_force.jpg">
-</p>
+<p align="center"><img width="25%" src="/Article/sections/images/consciousness_electromaagnetic_force.jpg"></p>
 <p align="center">Increased possibilities of wave entanglement due to probabilistic equalization in close and low entropy
 objects.</p>
 
-###### Antimatter
+## Spiral and orbit
+
+As the X, Y, and Z coordinates of the entangled pairs of a population tend to increase, their arrangement in a three-dimensional coordinate system will follow a diagonal reference between these three axes, as shown in Figure below. The points X1 and X2 were mirrored in X and Y coordinates to facilitate the observation that even at the bottom of the spiral the interval continues to add samples, albeit in smaller amounts than when going up to the top of the spiral. The dashed lines show the most probable paths to the A and B intervals. Thus, when a part of the interval is at its maximum midpoint (X and/or Y axes) the probabilistic tendency is that it receives fewer samples than the part of the interval that is at its minimum midpoint. This spiral effect is more noticeable the larger an interval and its quantity of samples, as the more probable and stable these paths will be.
+
+The continuous motion in a rarefied environment also helps in the formation and maintenance of the spirals. As the samples are added to the subintervals their velocities tend to increase towards the reference line, and because this addition is not uniform (varying between peaks and valleys) and the motion is approximately continuous the subintervals can drift or slide from one side of the reference line to the other.
+
+<p align="center">Three-dimensional coordinate system</p>
+<p align="center"><img width="45%" src="/Article/sections/images/consciousness_space_spiral_reference_line.jpg"></p>
+<p align="center">Probabilistic reference line for distribution of a population in a three-dimensional plane.</p>
+
+Each interval or subinterval (wavelength) has its own reference line. Just as within a meter there are centimeters, millimeters, etc., within an interval and subinterval there can be numerous other subintervals, as shown in Figure below.
+
+<p align="center">Intervals and reference lines</p>
+<p align="center"><img width="30%" src="/Article/sections/images/consciousness_space_spiral_underlines.jpg"></p>
+<p align="center">Spirals at different intervals and their reference lines.</p>
+
+###### Orbits
+
+Orbit can be defined in this study as the concept of the spirals plus the orientation of a probabilistic peak (gravity) instead of the reference line of the spirals, only.
+
+Systems that orbit as described earlier (in spiral - oriented by the reference line) are systems or intervals in which their peak is subdivided into subintervals and do not form a center of gravity, that is, all subintervals of the peak are not concentrated in one point of the system, thus orbiting the reference line of the interval. Probably galaxy clusters and superclusters are examples of this orbit. The spiral orbit (oriented by the reference line) is not restricted to large systems, this orbit is a feature that can happen in any size of interval.
+
+Another type of orbit is defined when the subintervals that orbit the peak of the wave (which represents approximately 99.9% of the samples in the interval) decrease their orbit speed as they move away from the peak. In Figure below the columns of the histogram in blue represent the peak of the wave. This decrease in velocity occurs gradually as these gray intervals move away from the peak of the wave, thus receiving a smaller amount of samples decreasing their acceleration. The solar system is possibly an example of this type of orbit. Atomic orbits may also resemble this type of orbit due to the differences in energies between the layers structured by the jumps.
+
+<p align="center">Orbits of the subintervals outside the wave peak</p>
+<p align="center"><img width="40%" src="/Article/sections/images/consciousness_elliptical_orbit_system.jpg"></p>
+<p align="center">The subintervals decrease in speed as they move away from the peak of the wave.</p>
+
+Yet another type of orbit is defined when the subintervals that orbit the peak of the wave maintain a constant average velocity regardless of the distance from the peak. This occurs because these subintervals are also part of the wave peak in blue, as shown in Figure below. Thus, because these subintervals remain in orbit within the 99.9% subinterval of the wave, their velocities do not decrease. This 99.9% of the wave is most easily visible part, therefore, the observed part of the galaxies, probably. Perhaps this feature is also responsible for the rings of planets.
+
+<p align="center">Orbits of the subintervals inside the wave peak</p>
+<p align="center"><img width="40%" src="/Article/sections/images/consciousness_circular_orbit_system.jpg"></p>
+<p align="center">The subintervals maintain their speed as they move away from the peak of the wave.</p>
+
+###### Dark matter and dark energy
+
+The intervals naturally move away with increasing speeds because they receive more samples towards the reference line or peak of the wave of their upper intervals and because they move in a rarefied environment.
+
+Spirals can occur without the need for a concentrated wave peak, but when there is such a concentration in the wave peak, orbits can occur within or outside of 99.9% of peak samples, resulting in orbits that maintain their average velocity constant when away from the peak (within 99.9%) or orbits that decrease their velocities when away from the peak (out of 99.9%).
+
+Therefore, dark matter and dark energy are neither matter nor energy, but probabilistic aspects of the distribution of samples in a population that resembles the normal distribution.
+
+## Antimatter
 
 When an interval tends to concentrate its samples toward the median, which is the probable direction according to the central limit theorem, it is called matter. Antimatter is the opposite, when an interval tends to concentrate its samples in the direction opposite to the median.
 
 Merging or summing the opposite intervals would make them a symmetric interval, that is, it would not be in any direction. The figure below shows one population with its samples concentrated toward the median and another with its samples concentrated toward the interval boundaries.
 
 <p align="center">Populations with their opposite sample concentrations</p>
-<p align="center">
-<img width="40%" src="/Article/sections/images/consciousness_concentration_of_opposite_samples_within_range.jpg">
-</p>
+<p align="center"><img width="40%" src="/Article/sections/images/consciousness_concentration_of_opposite_samples_within_range.jpg"></p>
 <p align="center">Populations distributed in opposite directions.</p>
+
+## Black Hole
+
+The area of an interval grows as new samples are added into the population and with the addition of other already entangled intervals, as shown by the upper right subinterval in Figure below. However, intervals that receive a large amount of samples within the population tend to form more and more subintervals at different levels, which contracts the occupied area of these intervals (because of the wave entanglement from the smaller subintervals sustaining these approximately quadratic areas) as shown by the purple and blue subintervals in Figure 38. So this relationship of the size of the interval with its amount of samples and their subintervals is the aspect that can help describe the so-called black holes, where the peak of the wave will occupy a smaller and smaller proportional subinterval within the interval of the wave, even with an increasing concentration of samples. These peaks are often found from the middle to the front of an interval or system (the core or peak of the system).
+
+<p align="center">Interval contraction</p>
+<p align="center"><img width="30%" src="/Article/sections/images/consciousness_interval_contraction.jpg"></p>
+<p align="center">Relationship of interval size and its possible contraction as new subintervals appear.</p>
 
 ## 
 
-***More details about each section and other sections such as black hole, nuclear forces, dark energy, dark matter, observer and life, among others, can be found in the [full paper](#%EF%B8%8F-download-the-full-paper).***
+***More details about each section and other sections such nuclear forces, observer and life, among others, can be found in the [full paper](#%EF%B8%8F-download-the-full-paper).***
 
 <br/> 
 
