@@ -256,7 +256,7 @@ Merging or summing the opposite intervals would make them a symmetric interval, 
 The area of an interval grows as new samples are added into the population and with the addition of other already entangled intervals, as shown by the upper right subinterval in Figure below. However, intervals that receive a large amount of samples within the population tend to form more and more subintervals at different levels, which contracts the occupied area of these intervals (because of the wave entanglement from the smaller subintervals sustaining these approximately quadratic areas) as shown by the purple and blue subintervals in Figure 38. So this relationship of the size of the interval with its amount of samples and their subintervals is the aspect that can help describe the so-called black holes, where the peak of the wave will occupy a smaller and smaller proportional subinterval within the interval of the wave, even with an increasing concentration of samples. These peaks are often found from the middle to the front of an interval or system (the core or peak of the system).
 
 <p align="center">Interval contraction</p>
-<p align="center"><img width="30%" src="/Article/sections/images/consciousness_interval_contraction.jpg"></p>
+<p align="center"><img width="40%" src="/Article/sections/images/consciousness_interval_contraction.jpg"></p>
 <p align="center">Relationship of interval size and its possible contraction as new subintervals appear.</p>
 
 ## 
