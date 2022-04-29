@@ -255,7 +255,7 @@ O merge ou soma de intervalos opostos os tornaria um intervalo simétrico, ou se
 A área de um intervalo cresce à medida que novas amostras são adicionadas na população e com a soma de outros intervalos já entrelaçados, como mostra o subintervalo superior direito na Figura abaixo. Contudo, os intervalos que recebem uma grande quantidade de amostras dentro da população tendem a formar cada vez mais subintervalos a diferentes níveis, que contraem a área ocupada destes intervalos (devido ao entrelaçamento de ondas do subintervalos menores sustentar essas áreas aproximadamente quadráticas), como mostra os subintervalos roxos e azuis na Figura 38. Assim, essa relação do tamanho do intervalo com sua quantidade de amostras e os seus subintervalos é o aspecto que pode ajudar a descrever os chamados buracos negros, onde o pico da onda irá ocupar um subintervalo proporcional cada vez menor dentro do intervalo da onda, mesmo com uma concentração de amostras crescentes. Esses picos são frequentemente encontrados do meio para frente de um intervalo ou sistema (o núcleo ou pico do sistema).
 
 <p align="center">Contração do intervalo</p>
-<p align="center"><img width="30%" src="/Article/sections/images/consciousness_interval_contraction.jpg"></p>
+<p align="center"><img width="40%" src="/Article/sections/images/consciousness_interval_contraction.jpg"></p>
 <p align="center">Relação do tamanho do intervalo e sua possível contração à medida que surgem novos subintervalos.</p>
 
 ## 
