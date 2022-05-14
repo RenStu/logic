@@ -232,6 +232,10 @@ Ainda outro tipo de órbita é definido quando os subintervalos que orbitam o pi
 <p align="center"><img width="40%" src="/Article/sections/images/consciousness_circular_orbit_system.jpg"></p>
 <p align="center">Os subintervalos mantêm a velocidade conforme se afastam do pico da onda.</p>
 	
+Conforme afirmado na subseção do espaço, uma nova amostra em um subintervalo o move e seus intervalos superiores. Também novas amostras no intervalo superior movem os intervalos inferiores, pois são frações da mesma onda. Desta forma, uma onda inferior permanecerá na onda superior quando sua velocidade for menor que a velocidade de pico da onda superior e sua trajetória não for oposta à trajetória da onda superior. O movimento da onda superior arrasta seus subintervalos, que com velocidades probabilísticas mais baixas continuarão a se mover dentro de sua onda superior, pois mesmo com velocidades mais baixas são arrastados pelo movimento da onda superior, que também é composta pelo movimento de seus subintervalos.
+
+Dobrar a quantidade de amostras de um intervalo não irá dobrar definitivamente a velocidade de um intervalo, pois se tem o dobro de amostras para mover tornando inalterada a velocidade. Porém, probabilisticamente, quanto maior a quantidade de amostras de uma onda, mais essas amostras estarão sentido à mediana da população e menos relevantes se tornam as amostras contrárias, o que torna a velocidade probabilística dos picos de ondas superiores à velocidade de seus subintervalos. Isso não é uma regra e um subintervalo pode ter velocidade superior ao pico de sua onda superior ou seu movimento pode ser contrário ao movimento do pico da onda superior, fazendo com que ele saia naturalmente da gravitação de sua onda superior (e isso ocorre mais facilmente com intervalos bem pequenos e rápidos favorecido por seu movimento num ambiente rarefeito devido ao tamanho). 
+
 ###### Matéria escura e energia escura
 
 Os intervalos naturalmente se afastam com velocidades crescentes por receberem mais amostras em direção à linha de referência ou pico da onda de seus intervalos superiores e por se moverem em um ambiente rarefeito.
