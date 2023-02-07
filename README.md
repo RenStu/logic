@@ -119,13 +119,13 @@ The length and amplitude of waves establish a quantity-per-interval or unit rela
 In large intervals with many logical moments, a smaller proportional discrepancy of wave amplitudes is observed. This characteristic is related to the larger number of logical moments and possible subintervals that can more easily compensate and neutralize the probabilistic unevenness of the interval. The larger the intervals, the more balanced they grow towards the population median (probabilistically). More complex intervals with this feature can represent, for example, the universe, then galaxies, stars, planets, etc.
 
 <p align="center">Wave amplitude at large intervals or lengths</p>
-<p align="center"><img width="30%" src="/Article/sections/images/consciousness_space_subconsciousness.jpg"></p>
+<p align="center"><img width="10%" src="/Article/sections/images/consciousness_space_subconsciousness.jpg"></p>
 <p align="center">Smaller wave discrepancy at large intervals.</p>
 
 At smaller intervals and with many logical moments, a greater proportional discrepancy of wave amplitudes is observed. In these intervals smaller object systems can be observed. The smaller the intervals are, the more unbalanced they will grow towards the population median (probabilistically). More complex wave systems with this feature can represent, for example, the atom, which is very small, present in huge quantities, and the particles orbiting its nucleus (electrons) are much more distant from it. This greater discrepancy is strictly linked to the reduced size of these intervals, making them receive these new samples in a less uniform and unbalanced way, which makes the follow-up of their subintervals to their peak or to their reference line less accurate (the spiral becomes wider, elongated and misshapen due to less uniformity in its correction frequency). Spiral and orbits can be seen in more detail in the subsection on Spiral and orbit.
 
 <p align="center">Wave amplitude at small intervals or lengths</p>
-<p align="center"><img width="1%" src="/Article/sections/images/consciousness_space_subconsciousness_min.jpg"></p>
+<p align="center"><img width="5%" src="/Article/sections/images/consciousness_space_subconsciousness_min.jpg"></p>
 <p align="center">High wave discrepancy at small intervals.</p>
 
 ## What is time?
