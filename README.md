@@ -119,13 +119,13 @@ O comprimento e amplitude de ondas estabelecem uma relação de quantidade por i
 Em grandes intervalos com muitos momentos lógicos é observado uma discrepância proporcional menor das amplitudes das ondas. Essa característica está relacionada com a maior quantidade de momentos lógicos e possíveis subintervalos que podem compensar e neutralizar mais facilmente os desnivelamentos probabilísticos do intervalo. Quanto maiores os intervalos mais equilibrados eles estarão crescendo sentido a mediana da população, probabilisticamente. Os sistemas de ondas podem ser complexos, tendo várias ondas aninhadas. Intervalos mais complexos e com essa característica podem representar, por exemplo, o centro do universo, então o centro de uma galáxia, estrelas, planetas etc.
 
 <p align="center">Amplitude de ondas em grandes intervalos ou comprimentos</p>
-<p align="center"><img width="30%" src="/Article/sections/images/consciousness_space_subconsciousness.jpg"></p>
+<p align="center"><img width="10%" src="/Article/sections/images/consciousness_space_subconsciousness.jpg"></p>
 <p align="center">Menor discrepância das ondas em grandes intervalos.</p>
 
 Em intervalos menores e com muitos momentos lógicos é observado uma discrepância proporcional maior das amplitudes das ondas. Nesses intervalos podem ser observados sistemas menores de objetos. Quanto menores os intervalos mais desequilibrados eles estarão crescendo sentido a mediana da população, probabilisticamente. Os sistemas de ondas mais complexos e com essa característica podem representar, por exemplo, o átomo que são muito pequenos, se apresentam em enormes quantidades e as partículas que orbitam seu núcleo (elétrons) ficam bem mais distantes dele. Essa maior discrepância está estritamente ligada ao tamanho reduzido destes intervalos, fazendo com que recebam essas novas amostras de uma forma menos uniforme e desequilibrada, o que torna menos precisa o acompanhamento dos seus subintervalos ao seu pico ou a sua linha de referência (a espiral fica mais ampla, alongada e disforme devido a menor uniformidade na sua frequência de correção). As espirais e órbitas podem serem vistas em mais detalhes na subseção da Espiral e órbita.
 
 <p align="center">Amplitude de ondas em pequenos intervalos ou comprimentos</p>
-<p align="center"><img width="1%" src="/Article/sections/images/consciousness_space_subconsciousness_min.jpg"></p>
+<p align="center"><img width="5%" src="/Article/sections/images/consciousness_space_subconsciousness_min.jpg"></p>
 <p align="center">Alta discrepância das ondas em pequenos intervalos.</p>
 
 ## O que é o tempo?
