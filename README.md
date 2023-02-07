@@ -82,11 +82,13 @@ This work will treat the words logical moment as the unified logical moment from
 
 ## What is nothing?
 
-The logical essence [NOT BEING] is analogous to an abstract constant, that is, its infinite negations and subnegations transcend time. All these infinite negations take  place in the absence of time. The inability of logic to negates itself, even for a small interval, would make logic [be] illogical in that interval, which would break the primordial premise of logic, [NOT BEING]. Logic is like an algorithm composed only of a self-executing constant, a infinite and generalized recursion, a simultaneous sequence.
+The logical essence [NOT BEING] is analogous to an abstract constant, that is, its infinite negations and subnegations transcend time. All these infinite negations take  place in the absence of time. The inability of logic to negates itself, even for a small interval, would make logic [be] illogical in that interval, which would break the primordial premise of logic, [NOT BEING]. Logic is like an algorithm composed only of a self-executing constant, a infinite and generalized recursion.
 
-It is simpler to visualize this simultaneous sequence by imagining a horizontal bar  **▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅** . This bar is formed by infinite black vertical slices or lines. So there are infinite ways to negate the first logical moment and each infinitesimal slice of the bar will be the beginning of a different sequence or expansion. When determining any of the slices for the first logical moment, immediately all other slices of the population (in the left and right ranges of the chosen slice) are different expansions for the second logical moment, and so on. In other words, expansions are generalizations, and there is no slash range that has not already been negated for any logical moment.
+It is simpler to visualize this generalized and infinite recursion by imagining a horizontal bar  **▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅** . This bar is formed by infinite black vertical slices or lines. So there are infinite ways to negate the first logical moment and each infinitesimal slice of the bar will be the beginning of a different sequence or expansion. When determining any of the slices for the first logical moment, immediately all other slices of the population (in the left and right ranges of the chosen slice) are different expansions for the second logical moment, and so on. In other words, expansions are generalizations, and there is no slash range that has not already been negated for any logical moment.
 
-So this simultaneous sequence is an infinite and generalized recursion in the absence of time ()the best definition of constant) which according to the English online dictionary [Collins](https://www.collinsdictionary.com/dictionary/english/constant), is something that repeats itself continuously, uninterruptedly and permanently, something unalterable.
+This generalized infinite recursion in the absence of time is the best definition of a constant, the best definition of constant, which according to the English online dictionary [Collins](https://www.collinsdictionary.com/dictionary/english/constant), is something that repeats itself continuously, uninterruptedly and permanently, something unalterable.
+
+The experience of time is conducted by the consciousness, a specific and non-generalized expansion. Time is not a quantity related to the simultaneous nature of this generalized and infinite recursion, but rather by the order or sequence of each specific expansion, which is nothing more than the observation of the order of the changes of each logical moment of the expansion. This order of each logical moment only makes sense in particular expansions, because when generalized the primordial logic [NOT BE] is a transcendent constant that mirrors or represents the infinite possibilities of a probabilistic n x n matrix.
 
 ## What are waves?
 
@@ -110,17 +112,17 @@ These entanglements form smaller waves, similar to the largest wave in the entir
 
 The jump is a reordering done by wave entanglement, as the samples of the entangled pairs are no longer equivalent with the addition of new samples from one side of the pair. The jump occurs on one side of a pair of waves and is a reordering, that is, both the part of the interval that has just received the new sample must better match the intended interval for the jump, as well as the reverse.
 
-The smaller intervals get entangled first, and these reorders caused by them allow the union of larger intervals. The meeting of two already entangled intervals does not entail a new entanglement, only the sum of these waves, because they are already entangled.
+Larger waves are formed by adding their new samples, and can form new subintervals. The meeting or separation of two entanglements does not entail a new entanglement. Thus, larger waves are also formed through the inclusion (vigor of entanglement) of smaller waves already entangled when the areas of these waves are partially or totally overlapping.
 
 The length and amplitude of waves establish a quantity-per-interval or unit relationship. These units are established by wave entanglement.
 
-In large intervals with many logical moments a smaller discrepancy of wave amplitudes is observed. In such intervals large systems of objects can be observed. The larger the intervals, the more balanced they grow towards the population median (probabilistically). Wave systems can be complex, having several nested waves. More complex intervals with this feature can represent, for example, the universe, then galaxies, stars, planets, etc.
+In large intervals with many logical moments, a smaller proportional discrepancy of wave amplitudes is observed. This characteristic is related to the larger number of logical moments and possible subintervals that can more easily compensate and neutralize the probabilistic unevenness of the interval. The larger the intervals, the more balanced they grow towards the population median (probabilistically). More complex intervals with this feature can represent, for example, the universe, then galaxies, stars, planets, etc.
 
 <p align="center">Wave amplitude at large intervals or lengths</p>
 <p align="center"><img width="30%" src="/Article/sections/images/consciousness_space_subconsciousness.jpg"></p>
 <p align="center">Smaller wave discrepancy at large intervals.</p>
 
-In smaller intervals and with many logical moments a greater discrepancy in wave amplitudes is observed. In these intervals smaller object systems can be observed. The smaller the intervals are, the more unbalanced they will grow towards the population median (probabilistically). More complex wave systems with this feature can represent, for example, the atom, which is very small, present in huge quantities, and the particles orbiting its nucleus (electrons) are much more distant from it.
+At smaller intervals and with many logical moments, a greater proportional discrepancy of wave amplitudes is observed. In these intervals smaller object systems can be observed. The smaller the intervals are, the more unbalanced they will grow towards the population median (probabilistically). More complex wave systems with this feature can represent, for example, the atom, which is very small, present in huge quantities, and the particles orbiting its nucleus (electrons) are much more distant from it. This greater discrepancy is strictly linked to the reduced size of these intervals, making them receive these new samples in a less uniform and unbalanced way, which makes the follow-up of their subintervals to their peak or to their reference line less accurate (the spiral becomes wider, elongated and misshapen due to less uniformity in its correction frequency). Spiral and orbits can be seen in more detail in the subsection on Spiral and orbit.
 
 <p align="center">Wave amplitude at small intervals or lengths</p>
 <p align="center"><img width="1%" src="/Article/sections/images/consciousness_space_subconsciousness_min.jpg"></p>
@@ -146,6 +148,18 @@ The logical ability to make probabilistic prospections, within the logical limit
 
 ## What is space?
 
+Each new sample is time as well as space (movement and change). Each new sample added within an interval or subinterval will make it to move according to the distribution of its new samples. Every subinterval when entangled arises at the base of its upper interval. If the interval has no upper interval it will appear at the base of the plane. Then, the addition of new samples in this subinterval or interval that has just arisen will make it to rise in its upper interval or plane, and this is the path of all entanglement that has no subintervals. However, the environment may not be rarefied, which makes this movement difficult. So in Figure below an interval is shown that does not yet contain subintervals, so its rise will be centralized if its samples are evenly distributed or with a centralized peak, or it will be skewed to the right or left as the higher concentration of samples is on one side (it is more common for the concentration of samples to be towards the median of the population).
+
+<p align="center">Interval without subintervals</p>
+<p align="center"><img width="10%" src="/Article/sections/images/consciousness_space_plan_nosubinterval.jpg"></p>
+<p align="center">Moving an interval without subintervals.</p>
+
+A subinterval that is born within its upper interval is born fully synchronized with this upper interval, that is, the samples of the subintervals are also samples of the upper interval, they are shared samples, according to the vigor of their entanglements, as seen in the subsection of Entanglement. In Figure below, the sum of the motions of the subintervals of a higher interval moves that interval with a given direction and speed, which also carries with it those smaller subintervals that are part of it, even though these subintervals may diverge and leave the higher interval at a given moment. In this way, the movements of the smaller waves were the movement of the largest wave of the population, where its direction and speed are predominantly of the majority, usually the peak, notwithstanding the movement of the minorities. And like a block, the movement of the largest wave leads to the smaller ones, which are parts of it, even though some of these smaller waves have their own movement and can escape at a given moment by divergence in their directions from the direction of the majority.
+
+<p align="center">Spatial distribution and movement</p>
+<p align="center"><img width="50%" src="/Article/sections/images/consciousness_space_plan.jpg"></p>
+<p align="center">Spatial distribution and movement of subintervals and population interval.</p>
+
 In Figure below, the sample density of a population is shown, where pairs tending to the same probabilistic distribution are placed side by side and represented in histogram form. The formation of these pairs comes from wave entanglement.
 
 <p align="center">Entangled pairs represented in three spatial dimensions</p>
@@ -158,27 +172,11 @@ By plotting the spatial dimensions of the graph of Figure above on a 3D distribu
 <p align="center"><img width="40%" src="/Article/sections/images/consciousness_space_3DScatter_200000-2.jpg"></p>
 <p align="center">200,000 samples or moments.</p>
 
-Obviously the representation and motions of the interval or its entangled subintervals cannot be faithfully represented in 1 or 2 dimensions, as entanglement is inherent (inseparable) essence of 3 dimensions.
-
-Each new sample is time and also space (movement or change). Each new sample added within a subinterval will cause it to move according to the distribution of its new samples. The interval that contains subintervals can move in any direction, but in the same way that the samples in a distribution in 1D (Z axis of Figure below) are concentrated in the highest value part of the plane, in 2D or 3D is analogous and the same occurs, as shown in the Figure subrange below. Both the interval and the subintervals tend to have their highest sample concentrations towards their inner reference line and the reference lines of their upper intervals. This makes something approximating a histogram representation come naturally. The interval and its subintervals have their sizes in X, Y and Z proportional to their sizes within the population in 1D representation (Z-axis of Figure below), so their internal scales are related to the number of samples that they have.
-
-<p align="center">Spatial distribution and movement</p>
-<p align="center"><img width="50%" src="/Article/sections/images/consciousness_space_plan.jpg"></p>
-<p align="center">Spatial distribution and movement of subintervals and population interval.</p>
-
-Every subinterval when it is entangled arises at the bottom of its upper interval. Then adding new samples into this subinterval that has just emerged will cause it to move up into its upper interval, and this is the direction of all entanglements that do not have subintervals, to move up as they add samples and speed toward the reference line. But the environment may not be rarefied, which makes this movement difficult (and may keep it stationary depending on how dense that environment is). Thus, in Figure below an interval that does not yet contain subintervals is displayed, so it moves up and gains speed with each new sample it receives, and its rise will either be centralized if its samples are evenly distributed or with a centralized peak, or it will be skewed to the right or left as the highest concentration of samples is more on one side than the other (it is more common for the concentration of samples to be toward the population median).
-
-<p align="center">Interval without subintervals</p>
-<p align="center"><img width="10%" src="/Article/sections/images/consciousness_space_plan_nosubinterval.jpg"></p>
-<p align="center">Moving an interval without subintervals.</p>
-
-Larger intervals are formed by adding smaller intervals already entangled through movement and by adding new samples. Intervals that have subintervals can move in any direction, since their subintervals can receive jumps and through these new entanglements the position of these subintervals are reset to the base of their upper interval and thus this interval can have a destruction of subintervals in any direction.
-
 ###### Gravitational force
 
 The gravitational force is not a force itself, but an aspect of the probability distribution of new samples towards the median of the population, according to the central limit theorem. This probabilistic direction causes waves to have a probable path to follow within the population, that is, the peak of the samples in the population or the peak of the largest wave in the population. Similarly, they also make the samples within a subinterval have a probable path to follow, that is, the peak of the samples in the subinterval (peak of this wave). These sample peaks are usually the most easily observable part of a wave, since they occupy a not-so-small area, as shown in Figure below.
 
-In Figure below it can also be seen that the most easily observable part is slightly to the right at the peak of the wave. This wave tends to move up and to the right, in a diagonal direction to the peak of its upper interval. It can also be seen in this figure that it has a slightly higher density of samples on the right, and these samples are more evenly distributed. This density and uniformity indicates the probabilistic path this interval is traveling and its speed in that direction (the higher this density and uniformity).
+In Figure below it can also be seen that the most easily observable part is slightly to the right at the peak of the wave. This wave tends to move up and to the right, in a diagonal direction to the peak of its upper interval. 
 
 <p align="center">Gravitational force</p>
 <p align="center"><img width="50%" src="/Article/sections/images/consciousness_gravitational_force.jpg"></p>
@@ -190,7 +188,7 @@ It is also possible to notice in the image above that the area of an interval gr
 
 The electromagnetic force is not a force itself, but an aspect of the entanglement of waves that intensifies at intervals or wavelengths with low entropy and with the spatial approximation (reduction of differences in the X, Y and Z axes) of these intervals.
 
-Electromagnetism is related to intervals similar to the more uniform wave side found in Figure above (right), but with low entropy, that is, the same structure that facilitates the movement of objects added to the low entropy, which facilitates jumps. When intervals have low entropy, their approximation, either naturally through the structure that facilitates movement or through the distribution of new samples capable of creating this structure, such as electrification, makes the wave pairs of one interval very similar to the wave pairs of the other interval, which makes many of these pairs viable for wave entanglement to finding more ideal pairs in the other interval and vice versa. In this way, a rearrangement occurs between the intervals through wave entanglement, and this rearrangement makes these intervals more equalized (low entropy).
+When intervals have low entropy, the total or partial overlapping of their areas facilitates the reordering of their entangled pairs, and an example of this can be the overlapping of an electron's area with the photonic clouds of other electrons or atoms. This reordering is an attempt to equalize these waves into a single low-entropy wave, which also makes it feasible to exchange many of these pairs for those of the non-entangled virtual cloud (virtual cloud of non-entangled samples, usually around the peak of the interval or subintervals, according to the subsection of Entanglement), which may result in the approximation of these waves due to this reordering.
 
 The blue lines in the figure below show where the exchange of wave pairs by wave entanglement is most frequent, that is, where the waves are most probable to be similar. This is why magnets try to rotate to connect when they are face to face with the same pole. The gray line shows connections that occur in a much smaller number.
 
